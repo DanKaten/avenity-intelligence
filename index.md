@@ -1,59 +1,85 @@
 ---
-layout: home
-title: "Texas AI Visibility Intelligence"
+layout: default
+title: "Avenity Intelligence — AI Visibility Reports for Texas Businesses"
+permalink: /
 ---
 
-# Texas AI Visibility Intelligence
+# Texas Business AI Visibility Intelligence
 
-Daily AI search visibility reports for Texas service businesses — tracking how local companies appear in ChatGPT, Perplexity, Google AI Overviews, and other AI answer engines.
-
-**Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult)**
-
----
-
-## What Is AI Visibility?
-
-Over a third of consumers now begin service searches in AI tools like ChatGPT and Perplexity rather than Google. When someone asks *"who is the best HVAC company in Houston?"* — AI answers name specific businesses. Companies with low AI visibility scores do not get named. Companies with high scores do.
-
-This publication tracks which Texas service businesses are AI-visible and which are not.
+**Published by Avenity Business Solutions** | Helping Texas SMBs appear in AI-powered search results
 
 ---
 
-## Check Your Score
+Is your business appearing when buyers ask ChatGPT, Perplexity, or Google AI for your service in your city?
 
-**[→ Get Your Free AI Visibility Score](https://calendly.com/avenitymarketing/phoneconsult)** — free 30-minute session with Avenity.
+These reports analyze real businesses across Texas — scoring their AI search visibility across four dimensions: Entity Clarity, Schema & Structure, Authority & Reviews, and Content Depth.
 
-**[→ Book a Strategy Call](https://calendly.com/avenitymarketing/phoneconsult)** — free 30-minute session with Avenity.
-
----
-
-## Latest Reports
-
-- [AI Visibility Report: Dallas Electrical Contractors — June 2026](/avenity-intelligence/articles/dallas-electrical-2026-06/) — June 26, 2026
-- [AI Visibility Report: Dallas Landscaping Businesses — June 2026](/avenity-intelligence/articles/dallas-landscaping-2026-06/) — June 26, 2026
-- [AI Visibility Report: Dallas Mortgage Brokers — June 2026](/avenity-intelligence/articles/dallas-mortgage-2026-06/) — June 26, 2026
-- [AI Visibility Report: Dallas Insurance Agencies — June 2026](/avenity-intelligence/articles/dallas-insurance-2026-06/) — June 26, 2026
-- [AI Visibility Report: Dallas Moving Businesses — June 2026](/avenity-intelligence/articles/dallas-moving-2026-06/) — June 26, 2026
-- [AI Visibility Report: Dallas Flooring Businesses — June 2026](/avenity-intelligence/articles/dallas-flooring-2026-06/) — June 26, 2026
-- [AI Visibility Report: Dallas Plumbing Businesses — June 2026](/avenity-intelligence/articles/dallas-plumbing-2026-06/) — June 26, 2026
-- [AI Visibility Report: Dallas Roofing Businesses — June 2026](/avenity-intelligence/articles/dallas-roofing-2026-06/) — June 26, 2026
-- [AI Visibility Report: Dallas Janitorial Businesses — June 2026](/avenity-intelligence/articles/dallas-janitorial-2026-06/) — June 26, 2026
-- [AI Visibility Report: Dallas HVAC Businesses — June 2026](/avenity-intelligence/articles/dallas-hvac-2026-06/) — June 26, 2026
-- [AI Visibility Report: Houston Electrical Contractors — June 2026](/avenity-intelligence/articles/houston-electrical-2026-06/) — June 26, 2026
-- [AI Visibility Report: Houston Landscaping Businesses — June 2026](/avenity-intelligence/articles/houston-landscaping-2026-06/) — June 26, 2026
-- [AI Visibility Report: Houston Mortgage Brokers — June 2026](/avenity-intelligence/articles/houston-mortgage-2026-06/) — June 26, 2026
-- [AI Visibility Report: Houston Insurance Agencies — June 2026](/avenity-intelligence/articles/houston-insurance-2026-06/) — June 26, 2026
-- [AI Visibility Report: Houston Moving Businesses — June 2026](/avenity-intelligence/articles/houston-moving-2026-06/) — June 26, 2026
-- [AI Visibility Report: Houston Flooring Businesses — June 2026](/avenity-intelligence/articles/houston-flooring-2026-06/) — June 26, 2026
-- [AI Visibility Report: Houston Plumbing Businesses — June 2026](/avenity-intelligence/articles/houston-plumbing-2026-06/) — June 26, 2026
-- [AI Visibility Report: Houston Roofing Businesses — June 2026](/avenity-intelligence/articles/houston-roofing-2026-06/) — June 26, 2026
-- [AI Visibility Report: Houston Janitorial Businesses — June 2026](/avenity-intelligence/articles/houston-janitorial-2026-06/) — June 26, 2026
-- [AI Visibility Report: Houston HVAC Businesses — June 2026](/avenity-intelligence/articles/houston-hvac-2026-06/) — June 26, 2026
+**[→ Get Your Free AI Visibility Assessment](https://calendly.com/avenitymarketing/phoneconsult)**
 
 ---
 
-## About This Publication
+## Published Reports — 300 Texas Businesses Analyzed
 
-Texas AI Visibility Intelligence is a research publication by Avenity Business Solutions. We analyze publicly available information about local service businesses to produce AI visibility scores. Scores reflect AI search presence only and do not represent overall business quality. All company information used in reports is publicly available.
+### Houston
 
-Questions? [Book a call](https://calendly.com/avenitymarketing/phoneconsult) with our team.
+| Report | Companies Analyzed | Published |
+|---|---|---|
+| [Houston HVAC AI Visibility Report](/articles/houston-hvac-2026-06/) | 10 | June 26, 2026 |
+| [Houston Janitorial AI Visibility Report](/articles/houston-janitorial-2026-06/) | 10 | June 26, 2026 |
+| [Houston Roofing AI Visibility Report](/articles/houston-roofing-2026-06/) | 10 | June 26, 2026 |
+| [Houston Plumbing AI Visibility Report](/articles/houston-plumbing-2026-06/) | 10 | June 26, 2026 |
+| [Houston Flooring AI Visibility Report](/articles/houston-flooring-2026-06/) | 10 | June 26, 2026 |
+| [Houston Moving AI Visibility Report](/articles/houston-moving-2026-06/) | 10 | June 26, 2026 |
+| [Houston Insurance AI Visibility Report](/articles/houston-insurance-2026-06/) | 10 | June 26, 2026 |
+| [Houston Mortgage AI Visibility Report](/articles/houston-mortgage-2026-06/) | 10 | June 26, 2026 |
+| [Houston Landscaping AI Visibility Report](/articles/houston-landscaping-2026-06/) | 10 | June 26, 2026 |
+| [Houston Electrical AI Visibility Report](/articles/houston-electrical-2026-06/) | 10 | June 26, 2026 |
+
+### Dallas
+
+| Report | Companies Analyzed | Published |
+|---|---|---|
+| [Dallas HVAC AI Visibility Report](/articles/dallas-hvac-2026-06/) | 10 | June 26, 2026 |
+| [Dallas Janitorial AI Visibility Report](/articles/dallas-janitorial-2026-06/) | 10 | June 26, 2026 |
+| [Dallas Roofing AI Visibility Report](/articles/dallas-roofing-2026-06/) | 10 | June 26, 2026 |
+| [Dallas Plumbing AI Visibility Report](/articles/dallas-plumbing-2026-06/) | 10 | June 26, 2026 |
+| [Dallas Flooring AI Visibility Report](/articles/dallas-flooring-2026-06/) | 10 | June 26, 2026 |
+| [Dallas Moving AI Visibility Report](/articles/dallas-moving-2026-06/) | 10 | June 26, 2026 |
+| [Dallas Insurance AI Visibility Report](/articles/dallas-insurance-2026-06/) | 10 | June 26, 2026 |
+| [Dallas Mortgage AI Visibility Report](/articles/dallas-mortgage-2026-06/) | 10 | June 26, 2026 |
+| [Dallas Landscaping AI Visibility Report](/articles/dallas-landscaping-2026-06/) | 10 | June 26, 2026 |
+| [Dallas Electrical AI Visibility Report](/articles/dallas-electrical-2026-06/) | 10 | June 26, 2026 |
+
+### San Antonio
+
+| Report | Companies Analyzed | Published |
+|---|---|---|
+| [San Antonio HVAC AI Visibility Report](/articles/san-antonio-hvac-2026-06/) | 10 | June 26, 2026 |
+| [San Antonio Janitorial AI Visibility Report](/articles/san-antonio-janitorial-2026-06/) | 10 | June 26, 2026 |
+| [San Antonio Roofing AI Visibility Report](/articles/san-antonio-roofing-2026-06/) | 10 | June 26, 2026 |
+| [San Antonio Plumbing AI Visibility Report](/articles/san-antonio-plumbing-2026-06/) | 10 | June 26, 2026 |
+| [San Antonio Flooring AI Visibility Report](/articles/san-antonio-flooring-2026-06/) | 10 | June 26, 2026 |
+| [San Antonio Moving AI Visibility Report](/articles/san-antonio-moving-2026-06/) | 10 | June 26, 2026 |
+| [San Antonio Electrical AI Visibility Report](/articles/san-antonio-electrical-2026-06/) | 10 | June 26, 2026 |
+| [San Antonio Landscaping AI Visibility Report](/articles/san-antonio-landscaping-2026-06/) | 10 | June 26, 2026 |
+| [San Antonio Insurance AI Visibility Report](/articles/san-antonio-insurance-2026-06/) | 10 | June 26, 2026 |
+| [San Antonio Mortgage AI Visibility Report](/articles/san-antonio-mortgage-2026-06/) | 10 | June 26, 2026 |
+
+---
+
+## About These Reports
+
+Each report scores businesses on AI search visibility — their ability to appear in ChatGPT, Perplexity, and Google AI results when buyers search for their service.
+
+**The four scoring dimensions:**
+- **Entity Clarity (25pts)** — Does the business clearly define what it does and where it operates?
+- **Schema & Structure (25pts)** — Does the website use structured data that AI engines can read?
+- **Authority & Reviews (25pts)** — Does the business have credible, machine-readable social proof?
+- **Content Depth (25pts)** — Does the site answer the questions buyers are actually asking?
+
+**Score guide:** Strong (85–100) · Good (70–84) · Developing+ (55–69) · Developing (40–54) · Early Stage (below 40)
+
+---
+
+*Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult) | Questions: dan@avenitymercantile.com*
+

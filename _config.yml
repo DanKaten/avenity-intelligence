@@ -1,0 +1,39 @@
+title: "Texas AI Visibility Intelligence"
+description: "Monthly AI search visibility reports for Texas service businesses. Tracking how local companies appear in ChatGPT, Perplexity, Google AI Overviews, and other AI answer engines."
+author: "Avenity Business Solutions"
+baseurl: "/abs-articles"
+url: "https://DanKaten.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO settings
+twitter:
+  username: ""
+social:
+  name: "Avenity Business Solutions"
+  links: []
+
+# Defaults
+defaults:
+  - scope:
+      path: "articles"
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Avenity Business Solutions"
+
+# Exclude from processing
+exclude:
+  - AGENTS.md
+  - schedule.json
+  - templates/
+  - .github/
+  - Gemfile
+  - Gemfile.lock
+  - SETUP.md

@@ -18,7 +18,7 @@ These reports analyze real businesses across Texas — scoring their AI search v
 
 ---
 
-## Published Reports — 300 Texas Businesses Analyzed
+## Published Reports — 400 Texas Businesses Analyzed
 
 ### Houston
 
@@ -64,6 +64,21 @@ These reports analyze real businesses across Texas — scoring their AI search v
 | [San Antonio Landscaping AI Visibility Report](/articles/san-antonio-landscaping-2026-06/) | 10 | June 26, 2026 |
 | [San Antonio Insurance AI Visibility Report](/articles/san-antonio-insurance-2026-06/) | 10 | June 26, 2026 |
 | [San Antonio Mortgage AI Visibility Report](/articles/san-antonio-mortgage-2026-06/) | 10 | June 26, 2026 |
+
+### Austin
+
+| Report | Companies Analyzed | Published |
+|---|---|---|
+| [Austin HVAC AI Visibility Report](/articles/austin-hvac-2026-06/) | 10 | June 26, 2026 |
+| [Austin Janitorial AI Visibility Report](/articles/austin-janitorial-2026-06/) | 10 | June 26, 2026 |
+| [Austin Roofing AI Visibility Report](/articles/austin-roofing-2026-06/) | 10 | June 26, 2026 |
+| [Austin Plumbing AI Visibility Report](/articles/austin-plumbing-2026-06/) | 10 | June 26, 2026 |
+| [Austin Flooring AI Visibility Report](/articles/austin-flooring-2026-06/) | 10 | June 26, 2026 |
+| [Austin Moving AI Visibility Report](/articles/austin-moving-2026-06/) | 10 | June 26, 2026 |
+| [Austin Electrical AI Visibility Report](/articles/austin-electrical-2026-06/) | 10 | June 26, 2026 |
+| [Austin Landscaping AI Visibility Report](/articles/austin-landscaping-2026-06/) | 10 | June 26, 2026 |
+| [Austin Insurance AI Visibility Report](/articles/austin-insurance-2026-06/) | 10 | June 26, 2026 |
+| [Austin Mortgage AI Visibility Report](/articles/austin-mortgage-2026-06/) | 10 | June 26, 2026 |
 
 ---
 

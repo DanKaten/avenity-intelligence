@@ -29,6 +29,7 @@ This publication tracks which Texas service businesses are AI-visible and which 
 
 ## Latest Reports
 
+- [AI Visibility Report: Dallas Janitorial Businesses — June 2026](/avenity-intelligence/articles/dallas-janitorial-2026-06/) — June 26, 2026
 - [AI Visibility Report: Dallas HVAC Businesses — June 2026](/avenity-intelligence/articles/dallas-hvac-2026-06/) — June 26, 2026
 - [AI Visibility Report: Houston Electrical Contractors — June 2026](/avenity-intelligence/articles/houston-electrical-2026-06/) — June 26, 2026
 - [AI Visibility Report: Houston Landscaping Businesses — June 2026](/avenity-intelligence/articles/houston-landscaping-2026-06/) — June 26, 2026
@@ -40,6 +41,7 @@ This publication tracks which Texas service businesses are AI-visible and which 
 - [AI Visibility Report: Houston Roofing Businesses — June 2026](/avenity-intelligence/articles/houston-roofing-2026-06/) — June 26, 2026
 - [AI Visibility Report: Houston Janitorial Businesses — June 2026](/avenity-intelligence/articles/houston-janitorial-2026-06/) — June 26, 2026
 - [AI Visibility Report: Houston HVAC Businesses — June 2026](/avenity-intelligence/articles/houston-hvac-2026-06/) — June 26, 2026
+- [AI Visibility Report: Houston Roofing Businesses — June 2026](/avenity-intelligence/articles/houston-roofing-2026-06/) — June 26, 2026
 
 ---
 

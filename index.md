@@ -29,6 +29,7 @@ This publication tracks which Texas service businesses are AI-visible and which 
 
 ## Latest Reports
 
+- [AI Visibility Report: Houston Insurance Agencies — June 2026](/avenity-intelligence/articles/houston-insurance-2026-06/) — June 26, 2026
 - [AI Visibility Report: Houston Moving Businesses — June 2026](/avenity-intelligence/articles/houston-moving-2026-06/) — June 26, 2026
 - [AI Visibility Report: Houston Flooring Businesses — June 2026](/avenity-intelligence/articles/houston-flooring-2026-06/) — June 26, 2026
 - [AI Visibility Report: Houston Plumbing Businesses — June 2026](/avenity-intelligence/articles/houston-plumbing-2026-06/) — June 26, 2026

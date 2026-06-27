@@ -110,6 +110,16 @@ Each report scores businesses on AI search visibility — their ability to appea
 | [Arlington Mortgage — June 2026](articles/arlington-mortgage-2026-06/) | 10 companies · Avg 66/100 · Top: Guild Mortgage (90) |
 | [Arlington Landscaping — June 2026](articles/arlington-landscaping-2026-06/) | 10 companies · Avg 60/100 · Top: SavATree (95) |
 | [Arlington Electrical — June 2026](articles/arlington-electrical-2026-06/) | 10 companies · Avg 60/100 · Top: Mr. Electric (95) |
+| [Corpus Christi HVAC — June 2026](articles/corpus-christi-hvac-2026-06/) | 10 companies · Avg 58/100 · Top: Aire Serv (85) |
+| [Corpus Christi Janitorial — June 2026](articles/corpus-christi-janitorial-2026-06/) | 10 companies · Avg 64/100 · Top: Jani-King/Coverall (95) |
+| [Corpus Christi Roofing — June 2026](articles/corpus-christi-roofing-2026-06/) | 10 companies · Avg 57/100 · Top: DFW Roofing Pro (85) |
+| [Corpus Christi Plumbing — June 2026](articles/corpus-christi-plumbing-2026-06/) | 10 companies · Avg 65/100 · Top: Benjamin Franklin/ARS (90) |
+| [Corpus Christi Flooring — June 2026](articles/corpus-christi-flooring-2026-06/) | 10 companies · Avg 57/100 · Top: Floor & Decor (80) |
+| [Corpus Christi Moving — June 2026](articles/corpus-christi-moving-2026-06/) | 10 companies · Avg 66/100 · Top: Two Men and a Truck (95) |
+| [Corpus Christi Insurance — June 2026](articles/corpus-christi-insurance-2026-06/) | 10 companies · Avg 54/100 · Top: Goosehead (75) |
+| [Corpus Christi Mortgage — June 2026](articles/corpus-christi-mortgage-2026-06/) | 10 companies · Avg 67/100 · Top: Caliber Home Loans (90) |
+| [Corpus Christi Landscaping — June 2026](articles/corpus-christi-landscaping-2026-06/) | 10 companies · Avg 54/100 · Top: SavATree (100) |
+| [Corpus Christi Electrical — June 2026](articles/corpus-christi-electrical-2026-06/) | 10 companies · Avg 60/100 · Top: Mr. Electric (95) |
 ---
 
 *Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult) | Questions: dan@avenitymercantile.com*
@@ -149,6 +159,16 @@ Each report scores businesses on AI search visibility — their ability to appea
 | [Arlington Mortgage — June 2026](articles/arlington-mortgage-2026-06/) | 10 companies · Avg 66/100 · Top: Guild Mortgage (90) |
 | [Arlington Landscaping — June 2026](articles/arlington-landscaping-2026-06/) | 10 companies · Avg 60/100 · Top: SavATree (95) |
 | [Arlington Electrical — June 2026](articles/arlington-electrical-2026-06/) | 10 companies · Avg 60/100 · Top: Mr. Electric (95) |
+| [Corpus Christi HVAC — June 2026](articles/corpus-christi-hvac-2026-06/) | 10 companies · Avg 58/100 · Top: Aire Serv (85) |
+| [Corpus Christi Janitorial — June 2026](articles/corpus-christi-janitorial-2026-06/) | 10 companies · Avg 64/100 · Top: Jani-King/Coverall (95) |
+| [Corpus Christi Roofing — June 2026](articles/corpus-christi-roofing-2026-06/) | 10 companies · Avg 57/100 · Top: DFW Roofing Pro (85) |
+| [Corpus Christi Plumbing — June 2026](articles/corpus-christi-plumbing-2026-06/) | 10 companies · Avg 65/100 · Top: Benjamin Franklin/ARS (90) |
+| [Corpus Christi Flooring — June 2026](articles/corpus-christi-flooring-2026-06/) | 10 companies · Avg 57/100 · Top: Floor & Decor (80) |
+| [Corpus Christi Moving — June 2026](articles/corpus-christi-moving-2026-06/) | 10 companies · Avg 66/100 · Top: Two Men and a Truck (95) |
+| [Corpus Christi Insurance — June 2026](articles/corpus-christi-insurance-2026-06/) | 10 companies · Avg 54/100 · Top: Goosehead (75) |
+| [Corpus Christi Mortgage — June 2026](articles/corpus-christi-mortgage-2026-06/) | 10 companies · Avg 67/100 · Top: Caliber Home Loans (90) |
+| [Corpus Christi Landscaping — June 2026](articles/corpus-christi-landscaping-2026-06/) | 10 companies · Avg 54/100 · Top: SavATree (100) |
+| [Corpus Christi Electrical — June 2026](articles/corpus-christi-electrical-2026-06/) | 10 companies · Avg 60/100 · Top: Mr. Electric (95) |
 ---
 
 *Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult) | Questions: dan@avenitymercantile.com*

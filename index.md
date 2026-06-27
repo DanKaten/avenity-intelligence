@@ -103,4 +103,16 @@ Each report scores businesses on AI search visibility — their ability to appea
 ---
 
 *Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult) | Questions: dan@avenitymercantile.com*
+| [Fort Worth Janitorial — June 2026](articles/fort-worth-janitorial-2026-06/) | 10 companies · Avg 67/100 · Top: Jani-King (90) |
+| [Fort Worth Roofing — June 2026](articles/fort-worth-roofing-2026-06/) | 10 companies · Avg 59/100 · Top: DFW Roofing Pro (80) |
+| [Fort Worth Plumbing — June 2026](articles/fort-worth-plumbing-2026-06/) | 10 companies · Avg 66/100 · Top: Benjamin Franklin / 1st Choice (85) |
+| [Fort Worth Flooring — June 2026](articles/fort-worth-flooring-2026-06/) | 10 companies · Avg 53/100 · Top: ProSource Wholesale (75) |
+| [Fort Worth Moving — June 2026](articles/fort-worth-moving-2026-06/) | 10 companies · Avg 68/100 · Top: NorthStar Moving (90) |
+| [Fort Worth Insurance — June 2026](articles/fort-worth-insurance-2026-06/) | 10 companies · Avg 58/100 · Top: Southwest Risk Partners (75) |
+| [Fort Worth Mortgage — June 2026](articles/fort-worth-mortgage-2026-06/) | 10 companies · Avg 58/100 · Top: Guild Mortgage (90) |
+| [Fort Worth Landscaping — June 2026](articles/fort-worth-landscaping-2026-06/) | 10 companies · Avg 58/100 · Top: SavATree (100) |
+| [Fort Worth Electrical — June 2026](articles/fort-worth-electrical-2026-06/) | 10 companies · Avg 58/100 · Top: Mr. Electric (90) |
 
+---
+
+*Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult) | Questions: dan@avenitymercantile.com*

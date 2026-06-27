@@ -113,6 +113,22 @@ Each report scores businesses on AI search visibility — their ability to appea
 | [Fort Worth Landscaping — June 2026](articles/fort-worth-landscaping-2026-06/) | 10 companies · Avg 58/100 · Top: SavATree (100) |
 | [Fort Worth Electrical — June 2026](articles/fort-worth-electrical-2026-06/) | 10 companies · Avg 58/100 · Top: Mr. Electric (90) |
 
+
+## El Paso
+
+| Article | Highlights |
+|---|---|
+| [El Paso HVAC — June 2026](articles/el-paso-hvac-2026-06/) | 10 companies · Avg 53/100 · Top: Thermacon / Sun City (70) |
+| [El Paso Janitorial — June 2026](articles/el-paso-janitorial-2026-06/) | 10 companies · Avg 55/100 · Top: Jani-King (95) |
+| [El Paso Roofing — June 2026](articles/el-paso-roofing-2026-06/) | 10 companies · Avg 49/100 · Top: Borderplex / Sun City Roofing (60) |
+| [El Paso Plumbing — June 2026](articles/el-paso-plumbing-2026-06/) | 10 companies · Avg 62/100 · Top: Roto-Rooter (85) |
+| [El Paso Flooring — June 2026](articles/el-paso-flooring-2026-06/) | 10 companies · Avg 57/100 · Top: Floor & Decor (80) |
+| [El Paso Moving — June 2026](articles/el-paso-moving-2026-06/) | 10 companies · Avg 62/100 · Top: PODS (90) |
+| [El Paso Insurance — June 2026](articles/el-paso-insurance-2026-06/) | 10 companies · Avg 61/100 · Top: Goosehead / State Farm (75) |
+| [El Paso Mortgage — June 2026](articles/el-paso-mortgage-2026-06/) | 10 companies · Avg 62/100 · Top: Guild / Caliber (90) |
+| [El Paso Landscaping — June 2026](articles/el-paso-landscaping-2026-06/) | 10 companies · Avg 51/100 · Top: SavATree (90) |
+| [El Paso Electrical — June 2026](articles/el-paso-electrical-2026-06/) | 10 companies · Avg 58/100 · Top: Mr. Electric (95) |
+
 ---
 
 *Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult) | Questions: dan@avenitymercantile.com*

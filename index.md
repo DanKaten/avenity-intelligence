@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Avenity Intelligence — AI Visibility Reports for Texas Businesses"
-permalink: /
+
+## 📊 Texas AI Visibility Report 2026
+
+**[→ View the Full Report: 800 Texas Businesses Scored](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)** — 8 cities · 10 industries · Free audit CTA
+
 ---
 
 # Texas Business AI Visibility Intelligence

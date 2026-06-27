@@ -100,6 +100,16 @@ Each report scores businesses on AI search visibility — their ability to appea
 
 **Score guide:** Strong (85–100) · Good (70–84) · Developing+ (55–69) · Developing (40–54) · Early Stage (below 40)
 
+| [Arlington HVAC — June 2026](articles/arlington-hvac-2026-06/) | 10 companies · Avg 69/100 · Top: Aire Serv (90) |
+| [Arlington Janitorial — June 2026](articles/arlington-janitorial-2026-06/) | 10 companies · Avg 68/100 · Top: Jani-King (95) |
+| [Arlington Roofing — June 2026](articles/arlington-roofing-2026-06/) | 10 companies · Avg 57/100 · Top: DFW Roofing Pro (85) |
+| [Arlington Plumbing — June 2026](articles/arlington-plumbing-2026-06/) | 10 companies · Avg 67/100 · Top: 1st Choice/Benjamin Franklin (85) |
+| [Arlington Flooring — June 2026](articles/arlington-flooring-2026-06/) | 10 companies · Avg 59/100 · Top: Floor & Decor (75) |
+| [Arlington Moving — June 2026](articles/arlington-moving-2026-06/) | 10 companies · Avg 71/100 · Top: NorthStar/Two Men (90) |
+| [Arlington Insurance — June 2026](articles/arlington-insurance-2026-06/) | 10 companies · Avg 60/100 · Top: Southwest Risk (75) |
+| [Arlington Mortgage — June 2026](articles/arlington-mortgage-2026-06/) | 10 companies · Avg 66/100 · Top: Guild Mortgage (90) |
+| [Arlington Landscaping — June 2026](articles/arlington-landscaping-2026-06/) | 10 companies · Avg 60/100 · Top: SavATree (95) |
+| [Arlington Electrical — June 2026](articles/arlington-electrical-2026-06/) | 10 companies · Avg 60/100 · Top: Mr. Electric (95) |
 ---
 
 *Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult) | Questions: dan@avenitymercantile.com*
@@ -129,6 +139,16 @@ Each report scores businesses on AI search visibility — their ability to appea
 | [El Paso Landscaping — June 2026](articles/el-paso-landscaping-2026-06/) | 10 companies · Avg 51/100 · Top: SavATree (90) |
 | [El Paso Electrical — June 2026](articles/el-paso-electrical-2026-06/) | 10 companies · Avg 58/100 · Top: Mr. Electric (95) |
 
+| [Arlington HVAC — June 2026](articles/arlington-hvac-2026-06/) | 10 companies · Avg 69/100 · Top: Aire Serv (90) |
+| [Arlington Janitorial — June 2026](articles/arlington-janitorial-2026-06/) | 10 companies · Avg 68/100 · Top: Jani-King (95) |
+| [Arlington Roofing — June 2026](articles/arlington-roofing-2026-06/) | 10 companies · Avg 57/100 · Top: DFW Roofing Pro (85) |
+| [Arlington Plumbing — June 2026](articles/arlington-plumbing-2026-06/) | 10 companies · Avg 67/100 · Top: 1st Choice/Benjamin Franklin (85) |
+| [Arlington Flooring — June 2026](articles/arlington-flooring-2026-06/) | 10 companies · Avg 59/100 · Top: Floor & Decor (75) |
+| [Arlington Moving — June 2026](articles/arlington-moving-2026-06/) | 10 companies · Avg 71/100 · Top: NorthStar/Two Men (90) |
+| [Arlington Insurance — June 2026](articles/arlington-insurance-2026-06/) | 10 companies · Avg 60/100 · Top: Southwest Risk (75) |
+| [Arlington Mortgage — June 2026](articles/arlington-mortgage-2026-06/) | 10 companies · Avg 66/100 · Top: Guild Mortgage (90) |
+| [Arlington Landscaping — June 2026](articles/arlington-landscaping-2026-06/) | 10 companies · Avg 60/100 · Top: SavATree (95) |
+| [Arlington Electrical — June 2026](articles/arlington-electrical-2026-06/) | 10 companies · Avg 60/100 · Top: Mr. Electric (95) |
 ---
 
 *Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult) | Questions: dan@avenitymercantile.com*

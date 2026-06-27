@@ -18,7 +18,7 @@ These reports analyze real businesses across Texas — scoring their AI search v
 
 ---
 
-## Published Reports — 400 Texas Businesses Analyzed
+## Published Reports — 410 Texas Businesses Analyzed
 
 ### Houston
 
@@ -79,6 +79,12 @@ These reports analyze real businesses across Texas — scoring their AI search v
 | [Austin Landscaping AI Visibility Report](/articles/austin-landscaping-2026-06/) | 10 | June 26, 2026 |
 | [Austin Insurance AI Visibility Report](/articles/austin-insurance-2026-06/) | 10 | June 26, 2026 |
 | [Austin Mortgage AI Visibility Report](/articles/austin-mortgage-2026-06/) | 10 | June 26, 2026 |
+
+### Fort Worth
+
+| Report | Companies Analyzed | Published |
+|---|---|---|
+| [Fort Worth HVAC AI Visibility Report](/articles/fort-worth-hvac-2026-06/) | 10 | June 27, 2026 |
 
 ---
 

@@ -190,3 +190,14 @@ Each report scores businesses on AI search visibility — their ability to appea
 ---
 
 *Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult) | Questions: dan@avenitymercantile.com*
+
+- [AI Visibility Report: Amarillo Electrical Businesses — June 2026](https://dankaten.github.io/avenity-intelligence/articles/amarillo-electrical-2026-06/)
+- [AI Visibility Report: Amarillo Landscaping Businesses — June 2026](https://dankaten.github.io/avenity-intelligence/articles/amarillo-landscaping-2026-06/)
+- [AI Visibility Report: Amarillo Mortgage Businesses — June 2026](https://dankaten.github.io/avenity-intelligence/articles/amarillo-mortgage-2026-06/)
+- [AI Visibility Report: Amarillo Insurance Businesses — June 2026](https://dankaten.github.io/avenity-intelligence/articles/amarillo-insurance-2026-06/)
+- [AI Visibility Report: Amarillo Moving Businesses — June 2026](https://dankaten.github.io/avenity-intelligence/articles/amarillo-moving-2026-06/)
+- [AI Visibility Report: Amarillo Flooring Businesses — June 2026](https://dankaten.github.io/avenity-intelligence/articles/amarillo-flooring-2026-06/)
+- [AI Visibility Report: Amarillo Plumbing Businesses — June 2026](https://dankaten.github.io/avenity-intelligence/articles/amarillo-plumbing-2026-06/)
+- [AI Visibility Report: Amarillo Roofing Businesses — June 2026](https://dankaten.github.io/avenity-intelligence/articles/amarillo-roofing-2026-06/)
+- [AI Visibility Report: Amarillo Janitorial Businesses — June 2026](https://dankaten.github.io/avenity-intelligence/articles/amarillo-janitorial-2026-06/)
+- [AI Visibility Report: Amarillo HVAC Businesses — June 2026](https://dankaten.github.io/avenity-intelligence/articles/amarillo-hvac-2026-06/)

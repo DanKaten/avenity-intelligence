@@ -171,6 +171,22 @@ Each report scores businesses on AI search visibility — their ability to appea
 | [Corpus Christi Mortgage — June 2026](articles/corpus-christi-mortgage-2026-06/) | 10 companies · Avg 67/100 · Top: Caliber Home Loans (90) |
 | [Corpus Christi Landscaping — June 2026](articles/corpus-christi-landscaping-2026-06/) | 10 companies · Avg 54/100 · Top: SavATree (100) |
 | [Corpus Christi Electrical — June 2026](articles/corpus-christi-electrical-2026-06/) | 10 companies · Avg 60/100 · Top: Mr. Electric (95) |
+
+## Laredo, TX (June 2026)
+
+| Report | Summary |
+|---|---|
+| [Laredo HVAC — June 2026](articles/laredo-hvac-2026-06/) | 10 companies · Avg 61/100 · Top: Express Air Cooling And Heating, LLC (95) |
+| [Laredo Janitorial — June 2026](articles/laredo-janitorial-2026-06/) | 10 companies · Avg 50/100 · Top: SERVPRO of North Laredo (75) |
+| [Laredo Roofing — June 2026](articles/laredo-roofing-2026-06/) | 10 companies · Avg 64/100 · Top: Laredo Roofing Systems (90) |
+| [Laredo Plumbing — June 2026](articles/laredo-plumbing-2026-06/) | 10 companies · Avg 47/100 · Top: Plumber Elite of Laredo (80) |
+| [Laredo Flooring — June 2026](articles/laredo-flooring-2026-06/) | 10 companies · Avg 47/100 · Top: Laredo Landscaping Pros (90) |
+| [Laredo Moving — June 2026](articles/laredo-moving-2026-06/) | 10 companies · Avg 49/100 · Top: Laredo Movers (85) |
+| [Laredo Insurance — June 2026](articles/laredo-insurance-2026-06/) | 10 companies · Avg 51/100 · Top: Delgado Insurance Agency (70) |
+| [Laredo Mortgage — June 2026](articles/laredo-mortgage-2026-06/) | 10 companies · Avg 53/100 · Top: Lone Star Financing / Herring Bank (70) |
+| [Laredo Landscaping — June 2026](articles/laredo-landscaping-2026-06/) | 10 companies · Avg 50/100 · Top: Laredo Landscaping Pros (90) |
+| [Laredo Electrical — June 2026](articles/laredo-electrical-2026-06/) | 10 companies · Avg 51/100 · Top: MCF Electric (90) |
+
 ---
 
 *Published by [Avenity Business Solutions](https://calendly.com/avenitymarketing/phoneconsult) | Questions: dan@avenitymercantile.com*

@@ -20,7 +20,7 @@ These reports analyze real businesses across Texas — scoring their AI search v
 
 ---
 
-## Published Reports — 410 Texas Businesses Analyzed
+## Published Reports — 510 Texas Businesses Analyzed
 
 ### Houston
 
@@ -212,3 +212,19 @@ Each report scores businesses on AI search visibility — their ability to appea
 - [Garland Roofing — July 2026](https://dankaten.github.io/avenity-intelligence/articles/garland-roofing-2026-07/)
 - [Garland Janitorial — July 2026](https://dankaten.github.io/avenity-intelligence/articles/garland-janitorial-2026-07/)
 - [Garland HVAC — July 2026](https://dankaten.github.io/avenity-intelligence/articles/garland-hvac-2026-07/)
+
+
+### Irving
+
+| Report | Companies Analyzed | Published |
+|---|---|---|
+| [Irving HVAC AI Visibility Report](/articles/irving-hvac-2026-07/) | 10 | July 1, 2026 |
+| [Irving Janitorial AI Visibility Report](/articles/irving-janitorial-2026-07/) | 10 | July 1, 2026 |
+| [Irving Roofing AI Visibility Report](/articles/irving-roofing-2026-07/) | 10 | July 1, 2026 |
+| [Irving Plumbing AI Visibility Report](/articles/irving-plumbing-2026-07/) | 10 | July 1, 2026 |
+| [Irving Flooring AI Visibility Report](/articles/irving-flooring-2026-07/) | 10 | July 1, 2026 |
+| [Irving Moving AI Visibility Report](/articles/irving-moving-2026-07/) | 10 | July 1, 2026 |
+| [Irving Insurance AI Visibility Report](/articles/irving-insurance-2026-07/) | 10 | July 1, 2026 |
+| [Irving Mortgage AI Visibility Report](/articles/irving-mortgage-2026-07/) | 10 | July 1, 2026 |
+| [Irving Landscaping AI Visibility Report](/articles/irving-landscaping-2026-07/) | 10 | July 1, 2026 |
+| [Irving Electrical AI Visibility Report](/articles/irving-electrical-2026-07/) | 10 | July 1, 2026 |

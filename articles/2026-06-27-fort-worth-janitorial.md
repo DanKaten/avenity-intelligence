@@ -217,7 +217,7 @@ The Fort Worth janitorial market shows a clear split: national franchise operato
 
 At an average commercial cleaning contract value of $3,000, AI search visibility directly impacts pipeline. Janitorial contracts are often multi-year — a single AI-driven referral can be worth $36,000 in lifetime value.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ At an average commercial cleaning contract value of $3,000, AI search visibility
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a janitorial business in Fort Worth not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

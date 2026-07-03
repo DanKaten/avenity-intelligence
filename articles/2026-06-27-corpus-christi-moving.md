@@ -133,7 +133,7 @@ Corpus Christi has one of Texas's most active relocation markets — driven by N
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Military PCS moves, oil industry transfers, and coastal retiree relocations flow through Corpus Christi constantly. AI search is how buyers find movers in time-sensitive situations.
 

@@ -207,7 +207,7 @@ For a locally owned Lubbock moving company, this gap represents a significant cu
 
 Avenity Business Solutions helps Lubbock service businesses close the AI visibility gap against national franchises.
 
-[Check Your AI Visibility Score →](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)
+[Check Your AI Visibility Score →](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)
 
 *Questions? [Schedule a 15-minute call](https://calendly.com/avenitymarketing/phoneconsult) — no pitch, just data.*
 

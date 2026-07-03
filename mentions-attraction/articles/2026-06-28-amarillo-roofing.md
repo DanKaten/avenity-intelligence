@@ -190,7 +190,7 @@ Rhynehart Roofing provides Roofing services in Amarillo, TX. In this analysis, R
 
 When a roofing business in Amarillo appears in AI search results, it captures buyer attention at the moment of decision. At an average roofing job value of $9,000, consistent AI visibility compounds quickly.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/demo)**
 
 ---
 
@@ -198,7 +198,7 @@ When a roofing business in Amarillo appears in AI search results, it captures bu
 
 If your company appeared in this report and you'd like the complete technical breakdown, get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/demo)**
 
 No email required. Takes about 60 seconds.
 

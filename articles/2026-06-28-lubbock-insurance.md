@@ -207,7 +207,7 @@ The gap is not insurmountable. An independent agency that deploys LocalBusiness 
 
 Avenity Business Solutions helps Lubbock service businesses build the visibility infrastructure that AI engines use to surface them for buyer queries.
 
-[Check Your AI Visibility Score →](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)
+[Check Your AI Visibility Score →](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)
 
 *Questions? [Schedule a 15-minute call](https://calendly.com/avenitymarketing/phoneconsult) — no pitch, just data.*
 

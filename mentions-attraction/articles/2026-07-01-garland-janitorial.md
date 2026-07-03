@@ -217,7 +217,7 @@ When a janitorial business in Garland appears in AI search results, it captures 
 
 At an average janitorial contract value of $3,000, even a modest improvement in AI search presence compounds quickly. Use the calculator below to estimate the value of AI visibility for your specific business:
 
-**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ At an average janitorial contract value of $3,000, even a modest improvement in 
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're a janitorial business in Garland not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

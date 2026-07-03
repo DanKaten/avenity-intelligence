@@ -207,7 +207,7 @@ Del Mar Lawn & Garden provides lawn care and garden maintenance services to Lare
 
 At an average landscaping job value of $2,200, capturing even one additional AI-referred client per month compounds significantly. Businesses with strong AI visibility signals are named first — those without are not named at all.
 
-**[→ See the Full Texas AI Visibility Report](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)**
+**[→ See the Full Texas AI Visibility Report](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)**
 
 ---
 
@@ -215,7 +215,7 @@ At an average landscaping job value of $2,200, capturing even one additional AI-
 
 If your company appeared in this report and you'd like the complete technical breakdown, get your free AI Visibility Audit.
 
-**[→ Get Your Free AI Visibility Audit](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)**
+**[→ Get Your Free AI Visibility Audit](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)**
 
 Book a free 30-minute call: **[calendly.com/avenitymarketing/phoneconsult](https://calendly.com/avenitymarketing/phoneconsult)**
 

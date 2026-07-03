@@ -217,7 +217,7 @@ When an HVAC business in McKinney appears in AI search results, it captures buye
 
 At an average HVAC job value of $4,500, even a modest improvement in AI search presence compounds quickly. A business appearing in responses to 10 additional AI-generated queries per month — at a typical conversion rate — represents thousands of dollars in additional annual revenue.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ At an average HVAC job value of $4,500, even a modest improvement in AI search p
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're an HVAC business in McKinney not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

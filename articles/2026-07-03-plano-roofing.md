@@ -209,13 +209,13 @@ Storm Guard Roofing & Construction serves the Plano area with residential roofin
 
 At an average roofing job value of $9,000, capturing additional AI-driven buyer inquiries represents significant revenue potential.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
 ## Is Your Business on This List?
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

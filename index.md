@@ -251,3 +251,15 @@ Each report scores businesses on AI search visibility — their ability to appea
 - [AI Visibility Report: McKinney Mortgage Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-mortgage-2026-07/)
 - [AI Visibility Report: McKinney Landscaping Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-landscaping-2026-07/)
 - [AI Visibility Report: McKinney Electrical Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-electrical-2026-07/)
+
+### Frisco, TX — July 3, 2026
+- [AI Visibility Report: Frisco HVAC Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-hvac-2026-07/)
+- [AI Visibility Report: Frisco Janitorial Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-janitorial-2026-07/)
+- [AI Visibility Report: Frisco Roofing Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-roofing-2026-07/)
+- [AI Visibility Report: Frisco Plumbing Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-plumbing-2026-07/)
+- [AI Visibility Report: Frisco Flooring Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-flooring-2026-07/)
+- [AI Visibility Report: Frisco Moving Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-moving-2026-07/)
+- [AI Visibility Report: Frisco Insurance Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-insurance-2026-07/)
+- [AI Visibility Report: Frisco Mortgage Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-mortgage-2026-07/)
+- [AI Visibility Report: Frisco Landscaping Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-landscaping-2026-07/)
+- [AI Visibility Report: Frisco Electrical Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-electrical-2026-07/)

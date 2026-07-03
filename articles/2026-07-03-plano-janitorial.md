@@ -209,13 +209,13 @@ Texas Cleaning Services offers commercial and residential cleaning across the Da
 
 When a janitorial business in Plano appears in AI search results, it captures buyer attention at the moment of decision. At an average janitorial contract value of $3,000, even modest improvement in AI search presence compounds quickly.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
 ## Is Your Business on This List?
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

@@ -219,7 +219,7 @@ The Fort Worth electrical market shows a clear three-tier structure: one strong 
 
 Electrical work is driven by urgency. When a Fort Worth homeowner loses power, needs a panel upgrade before a home sale, or wants an EV charger installed, the search happens fast and the first credible result gets the call. At an average job value of $1,800, a Fort Worth electrician consistently appearing in AI results for local queries captures a meaningful volume advantage over competitors that AI engines cannot find.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -227,7 +227,7 @@ Electrical work is driven by urgency. When a Fort Worth homeowner loses power, n
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a electrical business in Fort Worth not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

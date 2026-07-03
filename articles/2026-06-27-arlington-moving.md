@@ -133,7 +133,7 @@ Arlington's central DFW location makes it a high-velocity relocation market — 
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Moving buyers in Arlington are making relocation decisions before they ever pick up the phone. If you're not in the AI search results, you're not getting the call.
 

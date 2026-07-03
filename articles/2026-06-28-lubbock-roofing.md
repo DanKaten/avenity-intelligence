@@ -207,7 +207,7 @@ Storm Guard's franchise infrastructure gives it a structural advantage. But a lo
 
 Avenity Business Solutions helps Lubbock roofing contractors build the AI visibility infrastructure that turns searches into booked inspections.
 
-[Check Your AI Visibility Score →](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)
+[Check Your AI Visibility Score →](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)
 
 *Questions? [Schedule a 15-minute call](https://calendly.com/avenitymarketing/phoneconsult) — no pitch, just data.*
 

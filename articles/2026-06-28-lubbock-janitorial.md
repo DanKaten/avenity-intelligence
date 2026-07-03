@@ -207,7 +207,7 @@ Independent local cleaners face a structural disadvantage: franchise brands ship
 
 Avenity Business Solutions helps Lubbock service businesses build the digital infrastructure that AI search engines need to surface them for buyer queries.
 
-[Check Your AI Visibility Score →](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)
+[Check Your AI Visibility Score →](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)
 
 *Questions? [Schedule a 15-minute call](https://calendly.com/avenitymarketing/phoneconsult) — no pitch, just data.*
 

@@ -207,7 +207,7 @@ National brands deploy structured data, FAQ content, and review aggregation as s
 
 Avenity Business Solutions builds AI visibility infrastructure for Lubbock service businesses.
 
-[Check Your AI Visibility Score →](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)
+[Check Your AI Visibility Score →](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)
 
 *Questions? [Schedule a 15-minute call](https://calendly.com/avenitymarketing/phoneconsult) — no pitch, just data.*
 

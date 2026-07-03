@@ -135,7 +135,7 @@ Corpus Christi's electrical market spans residential, marine, and industrial sec
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
 
 When a hurricane knocks out power and residents need generator installation or emergency electrical repair, AI search is how they find contractors fast. If your company isn't appearing in those searches, you're missing the highest-urgency calls in your market.
 

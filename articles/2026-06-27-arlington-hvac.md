@@ -139,7 +139,7 @@ This report scores 10 Arlington-area HVAC companies on four AI visibility dimens
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
 
 Most Arlington Arlington HVAC companies scoring below 70 are invisible when buyers ask AI assistants for recommendations. The diagnostic takes 60 seconds and shows you exactly what's missing.
 

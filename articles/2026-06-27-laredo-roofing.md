@@ -207,7 +207,7 @@ Del Rio Roofing Services provides roofing repair and installation for residentia
 
 At an average roofing job value of $9,000, capturing even one additional AI-referred client per month represents significant annual revenue. Businesses with strong AI signals are named when buyers ask — those without are not.
 
-**[→ See the Full Texas AI Visibility Report](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)**
+**[→ See the Full Texas AI Visibility Report](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)**
 
 ---
 
@@ -215,7 +215,7 @@ At an average roofing job value of $9,000, capturing even one additional AI-refe
 
 If your company appeared in this report and you'd like the complete technical breakdown, or if you're a roofing business in Laredo not yet analyzed, get your free AI Visibility Audit.
 
-**[→ Get Your Free AI Visibility Audit](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)**
+**[→ Get Your Free AI Visibility Audit](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)**
 
 Book a free 30-minute call: **[calendly.com/avenitymarketing/phoneconsult](https://calendly.com/avenitymarketing/phoneconsult)**
 

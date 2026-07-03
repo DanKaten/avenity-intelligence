@@ -135,7 +135,7 @@ Corpus Christi roofing is a specialized market. Gulf Coast humidity, hurricane e
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Post-storm roofing demand in Corpus Christi is intense and time-sensitive. If your company isn't appearing in AI search within hours of a weather event, you're losing to whoever is.
 

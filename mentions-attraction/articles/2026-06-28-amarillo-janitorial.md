@@ -193,7 +193,7 @@ Golden Grove Cleaning provides nightly janitorial services in Amarillo, TX with 
 
 When a janitorial business in Amarillo appears in AI search results, it captures buyer attention at the moment of decision. At an average commercial cleaning contract value of $3,000, consistent AI search presence compounds significantly over time.
 
-**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -201,7 +201,7 @@ When a janitorial business in Amarillo appears in AI search results, it captures
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're a commercial cleaning business in Amarillo not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

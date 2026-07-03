@@ -206,7 +206,7 @@ Rierson Plumbing Local plumbing contractor serving Amarillo and surrounding comm
 
 When a plumbing business in Amarillo appears in AI search results, it captures buyer attention at the moment of decision. At an average plumbing job value of $1,200, consistent AI visibility compounds quickly.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/demo)**
 
 ---
 
@@ -214,7 +214,7 @@ When a plumbing business in Amarillo appears in AI search results, it captures b
 
 If your company appeared in this report and you'd like the complete technical breakdown, get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/demo)**
 
 No email required. Takes about 60 seconds.
 

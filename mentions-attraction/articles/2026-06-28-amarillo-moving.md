@@ -207,7 +207,7 @@ Movin' On Up Amarillo specializes in residential and commercial moving services 
 
 When a moving business in Amarillo appears in AI search results, it captures buyer attention at the moment of decision. At an average moving job value of $2,800, even a modest lift in AI search presence compounds meaningfully.
 
-**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -215,7 +215,7 @@ When a moving business in Amarillo appears in AI search results, it captures buy
 
 If your company appeared in this report and you'd like the complete technical breakdown, get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

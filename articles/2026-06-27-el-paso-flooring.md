@@ -217,7 +217,7 @@ The El Paso flooring market averages 57/100. National brands hold the top positi
 
 At an average flooring job value of $5,500, El Paso flooring businesses that appear consistently in AI results capture high-value residential remodel projects. Tile and stone installation — the dominant flooring category in this desert market — is heavily researched online before buyers call.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ At an average flooring job value of $5,500, El Paso flooring businesses that app
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a flooring business in El Paso not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

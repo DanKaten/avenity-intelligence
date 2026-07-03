@@ -20,7 +20,7 @@ These reports analyze real businesses across Texas — scoring their AI search v
 
 ---
 
-## Published Reports — 510 Texas Businesses Analyzed
+## Published Reports — 610 Texas Businesses Analyzed
 
 ### Houston
 
@@ -228,3 +228,14 @@ Each report scores businesses on AI search visibility — their ability to appea
 | [Irving Mortgage AI Visibility Report](/articles/irving-mortgage-2026-07/) | 10 | July 1, 2026 |
 | [Irving Landscaping AI Visibility Report](/articles/irving-landscaping-2026-07/) | 10 | July 1, 2026 |
 | [Irving Electrical AI Visibility Report](/articles/irving-electrical-2026-07/) | 10 | July 1, 2026 |
+### Plano, TX — July 3, 2026
+- [AI Visibility Report: Plano HVAC Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-hvac-2026-07/)
+- [AI Visibility Report: Plano Janitorial Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-janitorial-2026-07/)
+- [AI Visibility Report: Plano Roofing Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-roofing-2026-07/)
+- [AI Visibility Report: Plano Plumbing Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-plumbing-2026-07/)
+- [AI Visibility Report: Plano Flooring Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-flooring-2026-07/)
+- [AI Visibility Report: Plano Moving Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-moving-2026-07/)
+- [AI Visibility Report: Plano Insurance Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-insurance-2026-07/)
+- [AI Visibility Report: Plano Mortgage Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-mortgage-2026-07/)
+- [AI Visibility Report: Plano Landscaping Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-landscaping-2026-07/)
+- [AI Visibility Report: Plano Electrical Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-electrical-2026-07/)

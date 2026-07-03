@@ -135,7 +135,7 @@ Corpus Christi's coastal landscape presents unique challenges: salt spray tolera
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Corpus Christi property owners who want coastal-appropriate landscaping are searching for experts who understand their environment. If your company isn't visible in AI search when they ask, SavATree is getting the call.
 

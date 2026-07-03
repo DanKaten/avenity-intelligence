@@ -133,7 +133,7 @@ Corpus Christi flooring is a specialized market — high humidity, salt air, and
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Corpus Christi homeowners research flooring options extensively before calling — and coastal material selection is a real concern. If your expertise isn't visible in AI search, buyers are calling someone else.
 

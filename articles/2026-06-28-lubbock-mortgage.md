@@ -207,7 +207,7 @@ The gap for independent mortgage brokers is largely a technical one: FinancialSe
 
 Avenity Business Solutions helps Lubbock financial service businesses build the digital infrastructure AI search engines require to surface them for homebuyer queries.
 
-[Check Your AI Visibility Score →](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)
+[Check Your AI Visibility Score →](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)
 
 *Questions? [Schedule a 15-minute call](https://calendly.com/avenitymarketing/phoneconsult) — no pitch, just data.*
 

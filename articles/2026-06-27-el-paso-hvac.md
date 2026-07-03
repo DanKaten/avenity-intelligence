@@ -219,7 +219,7 @@ The El Paso HVAC market has the lowest average AI visibility score of any HVAC m
 
 El Paso's extreme summer heat means HVAC calls are urgent, high-frequency, and high-value. An El Paso HVAC business consistently appearing in AI results when homeowners search for AC repair or replacement captures buyers with maximum purchase intent — at an average job value of $4,500.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -227,7 +227,7 @@ El Paso's extreme summer heat means HVAC calls are urgent, high-frequency, and h
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are an HVAC business in El Paso not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

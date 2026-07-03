@@ -213,7 +213,7 @@ The gap is real. An HVAC company scoring 70+ in structured data and reviews will
 
 Avenity Business Solutions builds AI visibility systems for Texas service businesses. If your HVAC company isn't appearing when buyers search ChatGPT, Perplexity, or Google AI Overviews, we can show you exactly where the gaps are.
 
-[Check Your AI Visibility Score →](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)
+[Check Your AI Visibility Score →](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)
 
 *Questions? [Schedule a 15-minute call](https://calendly.com/avenitymarketing/phoneconsult) — no pitch, just data.*
 

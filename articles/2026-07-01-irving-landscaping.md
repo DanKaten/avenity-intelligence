@@ -213,7 +213,7 @@ When a landscaping business in Irving appears in AI search results, it captures 
 
 At an average landscaping job value of $2,200, consistent AI search presence generates meaningful compounding returns. Use the calculator below to estimate the value of AI visibility for your specific business:
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -221,7 +221,7 @@ At an average landscaping job value of $2,200, consistent AI search presence gen
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're a landscaping business in Irving not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

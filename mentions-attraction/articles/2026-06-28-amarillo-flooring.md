@@ -207,7 +207,7 @@ Carpet Tech provides hardwood flooring services in Amarillo, TX. In this analysi
 
 When a flooring business in Amarillo appears in AI search results, it captures buyer attention at the moment of decision. At an average flooring job value of $5,500, even a modest lift in AI search presence compounds meaningfully.
 
-**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -215,7 +215,7 @@ When a flooring business in Amarillo appears in AI search results, it captures b
 
 If your company appeared in this report and you'd like the complete technical breakdown, get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

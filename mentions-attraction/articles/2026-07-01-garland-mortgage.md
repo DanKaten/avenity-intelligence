@@ -217,7 +217,7 @@ When a mortgage business in Garland appears in AI search results, it captures bu
 
 At an average mortgage transaction value of $8,000, even a modest improvement in AI search presence represents significant revenue potential. Use the calculator below to estimate the value of AI visibility for your specific business:
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/demo)**
 
 ---
 
@@ -225,7 +225,7 @@ At an average mortgage transaction value of $8,000, even a modest improvement in
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're a mortgage business in Garland not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/demo)**
 
 No email required. Takes about 60 seconds.
 

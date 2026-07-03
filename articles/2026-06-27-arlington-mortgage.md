@@ -133,7 +133,7 @@ Arlington's housing market remains active — median home prices around $285,000
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Homebuyers in Arlington research lenders online for weeks before submitting an application. If your company or loan officer profile doesn't appear in AI-assisted research, you're not making the consideration set.
 

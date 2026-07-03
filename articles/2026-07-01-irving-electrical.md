@@ -213,7 +213,7 @@ When an electrical contractor in Irving appears in AI search results, it capture
 
 At an average electrical job value of $1,800, high service frequency makes AI search presence a compounding advantage. Use the calculator below to estimate the value of AI visibility for your specific business:
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -221,7 +221,7 @@ At an average electrical job value of $1,800, high service frequency makes AI se
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're an electrical business in Irving not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

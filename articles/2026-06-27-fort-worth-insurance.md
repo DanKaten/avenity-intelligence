@@ -217,7 +217,7 @@ The Fort Worth insurance market averages 58/100 — a moderate AI visibility sco
 
 Insurance clients tend to stay for years. At an average policy value of $2,400 annually, a single AI-driven client acquisition has substantial lifetime value. Fort Worth insurance agencies that appear in conversational AI results for "best insurance agent Fort Worth" or "commercial insurance broker Fort Worth" capture buyers at the moment of highest intent.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ Insurance clients tend to stay for years. At an average policy value of $2,400 a
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a insurance business in Fort Worth not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

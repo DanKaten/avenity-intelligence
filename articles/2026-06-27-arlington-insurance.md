@@ -133,7 +133,7 @@ Arlington's insurance market is dense — with one of Texas's largest population
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
 
 Insurance buyers in Arlington comparison-shop online before calling any agent. If you're not appearing in AI-assisted searches, you're missing buyers who are ready to purchase.
 

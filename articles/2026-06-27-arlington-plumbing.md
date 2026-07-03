@@ -135,7 +135,7 @@ Plumbing emergencies don't wait for business hours — and neither do the AI que
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 When a pipe bursts at 11pm in Arlington, your business needs to appear in the AI query. If it doesn't, you're not losing to a better plumber — you're losing to one with better digital signals.
 

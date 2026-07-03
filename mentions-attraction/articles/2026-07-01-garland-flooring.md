@@ -217,7 +217,7 @@ When a flooring business in Garland appears in AI search results, it captures bu
 
 At an average flooring job value of $5,500, even a modest improvement in AI search presence compounds quickly. Use the calculator below to estimate the value of AI visibility for your specific business:
 
-**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ At an average flooring job value of $5,500, even a modest improvement in AI sear
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're a flooring business in Garland not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

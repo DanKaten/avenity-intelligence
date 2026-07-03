@@ -217,7 +217,7 @@ The Fort Worth plumbing market shows a moderate AI readiness score of 66/100. Th
 
 Plumbing is one of the highest-urgency service categories — AI engines are frequently asked for immediate recommendations. At an average job value of $1,200, volume is the key driver. A Fort Worth plumber appearing consistently in AI search results can capture dozens of additional inquiries monthly.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ Plumbing is one of the highest-urgency service categories — AI engines are fre
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a plumbing business in Fort Worth not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

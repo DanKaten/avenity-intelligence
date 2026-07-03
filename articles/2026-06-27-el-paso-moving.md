@@ -217,7 +217,7 @@ The El Paso moving market averages 62/100, with national brands holding the top 
 
 Moving is a single-event, high-urgency purchase. El Paso's military population creates a steady relocation market year-round. At an average job value of $2,800, a moving company appearing in AI results for "El Paso movers" or "Fort Bliss relocation movers" captures buyers at maximum purchase intent.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ Moving is a single-event, high-urgency purchase. El Paso's military population c
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a moving business in El Paso not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

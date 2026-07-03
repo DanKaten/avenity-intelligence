@@ -213,7 +213,7 @@ When a moving business in Irving appears in AI search results, it captures buyer
 
 At an average moving job value of $2,800, consistent AI search presence generates significant compounding returns. Use the calculator below to estimate the value of AI visibility for your specific business:
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -221,7 +221,7 @@ At an average moving job value of $2,800, consistent AI search presence generate
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're a moving business in Irving not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

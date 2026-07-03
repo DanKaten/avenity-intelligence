@@ -213,7 +213,7 @@ When a janitorial business in McKinney appears in AI search results, it captures
 
 At an average commercial cleaning contract value of $3,000, even a modest improvement in AI search presence can represent significant annual revenue.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -221,7 +221,7 @@ At an average commercial cleaning contract value of $3,000, even a modest improv
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're a janitorial business in McKinney not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

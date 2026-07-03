@@ -137,7 +137,7 @@ Corpus Christi's Gulf Coast climate makes HVAC the most critical home service ca
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 When a Corpus Christi homeowner's AC fails during a coastal heat wave, they ask AI assistants first. If you're not in those answers, you're not getting the call.
 

@@ -205,7 +205,7 @@ Kingdom Kutz Landscaping & Concrete earns the highest review count of any indepe
 
 Avenity Business Solutions helps Lubbock service businesses convert their real-world reputation into AI search visibility.
 
-[Check Your AI Visibility Score →](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)
+[Check Your AI Visibility Score →](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)
 
 *Questions? [Schedule a 15-minute call](https://calendly.com/avenitymarketing/phoneconsult) — no pitch, just data.*
 

@@ -209,13 +209,13 @@ Frisco Mortgage Guy provides mortgage services to clients in Plano and the Colli
 
 At an average mortgage transaction value of $8,000, even a single additional AI-driven referral per month represents significant revenue impact.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
 ## Is Your Business on This List?
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

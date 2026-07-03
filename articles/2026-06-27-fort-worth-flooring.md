@@ -217,7 +217,7 @@ The Fort Worth flooring market has the second-lowest average AI visibility score
 
 At an average flooring job value of $5,500, AI search visibility has significant per-project revenue implications. A Fort Worth flooring business appearing consistently in AI results when homeowners search "best flooring company Fort Worth" can capture multiple additional projects monthly.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ At an average flooring job value of $5,500, AI search visibility has significant
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a flooring business in Fort Worth not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

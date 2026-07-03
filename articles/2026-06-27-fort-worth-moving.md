@@ -217,7 +217,7 @@ The Fort Worth moving market has one of the stronger AI visibility profiles of a
 
 Moving is a high-urgency, single-event purchase. When a Fort Worth resident decides to move, the search is compressed into days. AI engines are increasingly the first source consulted. At an average job value of $2,800, a Fort Worth moving company appearing consistently in AI results for local moving queries gains a meaningful booking advantage.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ Moving is a high-urgency, single-event purchase. When a Fort Worth resident deci
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a moving business in Fort Worth not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

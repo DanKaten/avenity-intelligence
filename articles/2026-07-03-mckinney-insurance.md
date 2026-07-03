@@ -211,7 +211,7 @@ Brightway Insurance McKinney provides independent insurance agency services thro
 
 When an insurance agency in McKinney appears in AI search results, it captures buyer attention during the policy-shopping phase — at the moment when carrier and agent comparisons are being made. At an average insurance policy value of $2,400 in annual premium, AI search positioning represents significant client acquisition potential.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -219,7 +219,7 @@ When an insurance agency in McKinney appears in AI search results, it captures b
 
 If your agency appeared in this report and you'd like the complete technical breakdown — or if you're an insurance agency in McKinney not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

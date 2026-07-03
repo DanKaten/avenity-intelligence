@@ -133,7 +133,7 @@ With average job values around $5,500, flooring is a high-consideration purchase
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Flooring buyers in Arlington research for weeks before calling. If you're not showing up when they ask AI assistants for recommendations, you're not making their shortlist.
 

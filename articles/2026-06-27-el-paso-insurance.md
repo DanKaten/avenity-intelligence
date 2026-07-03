@@ -217,7 +217,7 @@ The El Paso insurance market averages 61/100, with the top tier held by well-res
 
 Insurance clients tend to stay for years. At an average policy value of $2,400 annually, a single AI-driven client acquisition in El Paso has substantial lifetime value. The bilingual El Paso market — where Spanish-language AI queries are increasingly common — represents an underserved AI search segment for any insurer that captures it first.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ Insurance clients tend to stay for years. At an average policy value of $2,400 a
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a insurance business in El Paso not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

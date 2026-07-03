@@ -217,7 +217,7 @@ The Fort Worth roofing market has the lowest average AI visibility score of any 
 
 At an average Fort Worth roofing job value of $9,000, AI search visibility has the highest per-lead value of any service category we track. A single additional AI-driven inquiry per month represents over $108,000 in annual revenue potential.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ At an average Fort Worth roofing job value of $9,000, AI search visibility has t
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a roofing business in Fort Worth not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

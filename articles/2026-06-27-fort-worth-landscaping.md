@@ -219,7 +219,7 @@ The Fort Worth landscaping market has the widest score spread in this city analy
 
 Landscaping and lawn care clients often remain for seasons or years. At an average job value of $2,200, combined with high retention rates, the lifetime value of a single AI-driven acquisition is substantially higher than the initial job value suggests.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -227,7 +227,7 @@ Landscaping and lawn care clients often remain for seasons or years. At an avera
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a landscaping business in Fort Worth not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

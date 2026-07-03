@@ -209,13 +209,13 @@ Evolution Moving Company provides residential and commercial moving services in 
 
 At an average moving job value of $2,800, consistent AI search presence captures high-intent buyers at the moment of decision.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
 ## Is Your Business on This List?
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

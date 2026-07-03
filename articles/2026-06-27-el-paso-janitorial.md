@@ -217,7 +217,7 @@ The El Paso janitorial market is bifurcated: national franchise operators score 
 
 Commercial cleaning contracts often run for years. At an average contract value of $3,000 monthly, a single AI-driven client acquisition from the El Paso market represents $36,000 or more in annual recurring revenue.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ Commercial cleaning contracts often run for years. At an average contract value 
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a janitorial business in El Paso not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

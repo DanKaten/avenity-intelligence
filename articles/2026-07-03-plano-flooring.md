@@ -209,13 +209,13 @@ Texas Southwest Floors Inc provides commercial and residential flooring installa
 
 At an average flooring project value of $5,500, strengthening AI search presence captures high-value buyer decisions at the research stage.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
 ## Is Your Business on This List?
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

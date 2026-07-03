@@ -219,7 +219,7 @@ The Fort Worth mortgage market shows a wide spread — from 20 to 90 — with th
 
 At an average mortgage origination value of $8,000 — the highest of any category in this analysis — AI search presence has the highest per-lead dollar value of any Fort Worth service category. A mortgage lender capturing one additional AI-driven borrower per month adds $96,000 in annual origination value.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -227,7 +227,7 @@ At an average mortgage origination value of $8,000 — the highest of any catego
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a mortgage business in Fort Worth not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

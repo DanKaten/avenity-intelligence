@@ -217,7 +217,7 @@ The El Paso roofing market has the lowest average AI visibility score in this se
 
 At $9,000 per average roofing job, the El Paso roofing market has the highest per-lead dollar value of any category we track. A roofing company appearing consistently in AI results for El Paso roofing searches captures buyers at the highest-value moment of decision.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ At $9,000 per average roofing job, the El Paso roofing market has the highest pe
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a roofing business in El Paso not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

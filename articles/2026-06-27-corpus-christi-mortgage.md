@@ -133,7 +133,7 @@ Corpus Christi's mortgage market has distinct characteristics: a large VA loan v
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Military families on PCS orders to Corpus Christi have 30–60 days to close on a home. They're researching VA-approved lenders through AI search before they arrive. If you're not visible, you're not getting that call.
 

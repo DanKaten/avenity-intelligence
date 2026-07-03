@@ -133,7 +133,7 @@ Corpus Christi's coastal environment creates unique plumbing challenges — hard
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Plumbing emergencies in Corpus Christi happen at the worst times — post-storm, middle of the night, during freeze events. The company that appears in AI search in those moments wins the call.
 

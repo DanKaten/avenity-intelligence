@@ -133,7 +133,7 @@ Corpus Christi's commercial cleaning market serves a distinct mix: naval facilit
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Facility managers at Corpus Christi's naval base, medical centers, and port facilities are sourcing cleaning contractors through AI-assisted research. If your company isn't appearing, you're not making the consideration set.
 

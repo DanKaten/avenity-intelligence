@@ -213,7 +213,7 @@ The El Paso mortgage market averages 62/100 — the highest average of any servi
 
 At $8,000 per average origination — the highest of any service category we track — the El Paso mortgage market has the highest per-lead dollar value in this analysis. The Fort Bliss VA loan segment adds additional volume: military families relocating to El Paso represent a high-frequency, high-value buyer segment with specific, searchable questions that AI engines can answer directly.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -221,7 +221,7 @@ At $8,000 per average origination — the highest of any service category we tra
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a mortgage business in El Paso not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

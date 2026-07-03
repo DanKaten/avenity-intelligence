@@ -135,7 +135,7 @@ Insurance in Corpus Christi is unlike any other Texas market. Windstorm coverage
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Corpus Christi buyers searching for windstorm and flood coverage are high-intent and often time-sensitive (pre-hurricane season, post-event). If you're not appearing in AI search when they ask, you're losing those clients to agents who are.
 

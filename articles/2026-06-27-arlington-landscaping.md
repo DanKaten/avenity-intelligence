@@ -135,7 +135,7 @@ Arlington's suburban density — over 130,000 households spread across 100 squar
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
 
 Arlington homeowners decide on lawn care services seasonally. If your company isn't appearing when they ask AI assistants in March and October, you're missing your two best conversion windows.
 

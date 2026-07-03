@@ -217,7 +217,7 @@ The El Paso plumbing market has a moderate AI visibility average of 62/100, supp
 
 Plumbing is driven by urgency — buyers search and call within minutes. At an average job value of $1,200, volume determines monthly revenue for El Paso plumbers. An AI search presence that consistently surfaces a business for "plumber El Paso" or "emergency plumbing El Paso" directly drives incoming call volume.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ Plumbing is driven by urgency — buyers search and call within minutes. At an a
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a plumbing business in El Paso not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

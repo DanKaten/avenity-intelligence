@@ -219,7 +219,7 @@ At an average HVAC job value of $4,500, even a modest improvement in AI search p
 
 Use the calculator below to estimate the value of AI visibility for your specific business:
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/abs-articles/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -227,7 +227,7 @@ Use the calculator below to estimate the value of AI visibility for your specifi
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're an HVAC business in Houston not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/abs-articles/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

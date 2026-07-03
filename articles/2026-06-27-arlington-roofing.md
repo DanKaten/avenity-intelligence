@@ -139,7 +139,7 @@ Arlington sits squarely in Texas hail alley. After every major storm system roll
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Hail season in North Texas doesn't slow down. Homeowners who can't find you in AI search are calling your competitors within minutes of the storm.
 

@@ -207,7 +207,7 @@ For any independently owned Lubbock electrician, the path to closing the gap is 
 
 Avenity Business Solutions builds AI visibility systems for Texas service businesses that want to show up when buyers search without running ads.
 
-[Check Your AI Visibility Score →](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)
+[Check Your AI Visibility Score →](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)
 
 *Questions? [Schedule a 15-minute call](https://calendly.com/avenitymarketing/phoneconsult) — no pitch, just data.*
 

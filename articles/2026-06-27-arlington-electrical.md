@@ -137,7 +137,7 @@ Electrical work is one of the highest-trust service categories — nobody's call
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/)
 
 Homeowners in Arlington researching electrical panel upgrades or EV charger installations are making their shortlist through AI search before they ever call. If your company isn't on that list, you're not getting the opportunity.
 

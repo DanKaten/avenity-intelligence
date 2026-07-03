@@ -211,7 +211,7 @@ Bacon Plumbing, Heating, Air & Electric serves McKinney as a multi-trade home se
 
 When a plumbing business in McKinney appears in AI search results, it captures homeowner attention at the moment of service need — often an emergency. At an average plumbing job value of $1,200 and high call frequency, AI search positioning compounds into meaningful annual revenue.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -219,7 +219,7 @@ When a plumbing business in McKinney appears in AI search results, it captures h
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're a plumbing business in McKinney not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

@@ -209,13 +209,13 @@ Texas Farm Bureau Insurance Plano provides personal and commercial insurance thr
 
 At an average insurance policy value of $2,400, consistent AI search presence connects agencies with buyers at the moment they're actively comparing coverage options.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
 ## Is Your Business on This List?
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

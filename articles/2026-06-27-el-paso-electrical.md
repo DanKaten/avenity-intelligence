@@ -217,7 +217,7 @@ The El Paso electrical market shows a clear three-tier structure: one dominant p
 
 Electrical work in El Paso is driven by urgency and growth — aging housing stock, new East Side construction, and rising EV adoption all create consistent electrical service demand. At an average job value of $1,800, El Paso electricians consistently appearing in AI results for local electrical queries gain a measurable call volume advantage over competitors AI engines cannot find.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -225,7 +225,7 @@ Electrical work in El Paso is driven by urgency and growth — aging housing sto
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are a electrical business in El Paso not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

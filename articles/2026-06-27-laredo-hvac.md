@@ -211,7 +211,7 @@ Vasquez Appliance Repair serves the Laredo area with appliance and HVAC repair s
 
 When a HVAC business in Laredo appears in AI search results, it captures buyer attention at the moment of decision. At an average job value of $4,500, even modest improvement in AI search presence compounds quickly.
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)**
 
 ---
 
@@ -219,7 +219,7 @@ When a HVAC business in Laredo appears in AI search results, it captures buyer a
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're a HVAC business in Laredo not yet analyzed — you can get a free AI Visibility Audit.
 
-**[→ Get Your Free AI Visibility Audit](https://dankaten.github.io/avenity-intelligence/texas-ai-report/)**
+**[→ Get Your Free AI Visibility Audit](https://avenitybusinesssolutions.com/authority-engine/texas-ai-report/)**
 
 Want to discuss what the findings mean for your business? Book a free 30-minute call: **[calendly.com/avenitymarketing/phoneconsult](https://calendly.com/avenitymarketing/phoneconsult)**
 

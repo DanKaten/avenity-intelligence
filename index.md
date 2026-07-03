@@ -20,7 +20,7 @@ These reports analyze real businesses across Texas — scoring their AI search v
 
 ---
 
-## Published Reports — 610 Texas Businesses Analyzed
+## Published Reports — 710 Texas Businesses Analyzed
 
 ### Houston
 
@@ -239,3 +239,15 @@ Each report scores businesses on AI search visibility — their ability to appea
 - [AI Visibility Report: Plano Mortgage Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-mortgage-2026-07/)
 - [AI Visibility Report: Plano Landscaping Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-landscaping-2026-07/)
 - [AI Visibility Report: Plano Electrical Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/plano-electrical-2026-07/)
+
+### McKinney, TX — July 3, 2026
+- [AI Visibility Report: McKinney HVAC Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-hvac-2026-07/)
+- [AI Visibility Report: McKinney Janitorial Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-janitorial-2026-07/)
+- [AI Visibility Report: McKinney Roofing Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-roofing-2026-07/)
+- [AI Visibility Report: McKinney Plumbing Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-plumbing-2026-07/)
+- [AI Visibility Report: McKinney Flooring Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-flooring-2026-07/)
+- [AI Visibility Report: McKinney Moving Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-moving-2026-07/)
+- [AI Visibility Report: McKinney Insurance Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-insurance-2026-07/)
+- [AI Visibility Report: McKinney Mortgage Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-mortgage-2026-07/)
+- [AI Visibility Report: McKinney Landscaping Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-landscaping-2026-07/)
+- [AI Visibility Report: McKinney Electrical Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/mckinney-electrical-2026-07/)

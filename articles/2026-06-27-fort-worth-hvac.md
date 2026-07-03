@@ -219,7 +219,7 @@ When an HVAC business in Fort Worth appears in AI search results, it captures bu
 
 Use the calculator below to estimate what AI visibility is worth for your specific business:
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/)**
 
 ---
 
@@ -227,7 +227,7 @@ Use the calculator below to estimate what AI visibility is worth for your specif
 
 If your company appeared in this report and you would like the complete technical breakdown — or if you are an HVAC business in Fort Worth not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/)**
 
 No email required. Takes about 60 seconds.
 

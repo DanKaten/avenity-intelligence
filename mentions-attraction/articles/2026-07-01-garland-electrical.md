@@ -217,7 +217,7 @@ When an electrical business in Garland appears in AI search results, it captures
 
 At an average electrical job value of $1,800, even a modest improvement in AI search presence compounds quickly across the high search volume this category generates. Use the calculator below to estimate the value of AI visibility for your specific business:
 
-**[→ Estimate Your AI Visibility Value](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Estimate Your AI Visibility Value](https://avenitybusinesssolutions.com/authority-engine/demo)**
 
 ---
 
@@ -225,7 +225,7 @@ At an average electrical job value of $1,800, even a modest improvement in AI se
 
 If your company appeared in this report and you'd like the complete technical breakdown — or if you're an electrical business in Garland not yet analyzed — you can get your free AI Visibility Score instantly.
 
-**[→ Get Your Free AI Visibility Score](https://dankaten.github.io/avenity-intelligence/demo)**
+**[→ Get Your Free AI Visibility Score](https://avenitybusinesssolutions.com/authority-engine/demo)**
 
 No email required. Takes about 60 seconds.
 

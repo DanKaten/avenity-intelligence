@@ -133,7 +133,7 @@ Arlington hosts University of Texas at Arlington, AT&T Stadium, Globe Life Field
 
 **Ready to see where your business stands?**
 
-[→ Run Your Free AI Visibility Diagnostic](https://dankaten.github.io/avenity-intelligence/demo)
+[→ Run Your Free AI Visibility Diagnostic](https://avenitybusinesssolutions.com/authority-engine/demo)
 
 Facility managers in Arlington increasingly use AI to shortlist cleaning vendors before making a single call. If your company isn't showing up in those answers, you're not in the running.
 

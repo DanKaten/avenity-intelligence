@@ -1,0 +1,378 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cool Care Heating and Air Conditioning — AI Visibility Walkthrough</title>
+  <style>
+    :root {
+      --navy: #101d35;
+      --blue: #2563eb;
+      --sky: #eaf2ff;
+      --green: #16835f;
+      --ink: #172033;
+      --muted: #657189;
+      --line: #dce3ef;
+      --paper: #ffffff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--ink);
+      background: radial-gradient(circle at top right, #dceaff 0, #f5f8fd 35%, #edf2f8 100%);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .shell { max-width: 1120px; margin: 0 auto; padding: 28px 22px 48px; }
+    header { display: flex; justify-content: space-between; gap: 24px; align-items: center; margin-bottom: 22px; }
+    .brand { font-weight: 800; letter-spacing: -.02em; color: var(--navy); }
+    .brand span { color: var(--blue); }
+    .stamp { font-size: 13px; color: var(--muted); text-align: right; }
+    .player {
+      overflow: hidden;
+      border: 1px solid rgba(16, 29, 53, .12);
+      border-radius: 26px;
+      background: var(--paper);
+      box-shadow: 0 30px 80px rgba(30, 55, 95, .18);
+    }
+    .stage { min-height: 670px; padding: 48px 62px; display: grid; align-items: center; }
+    .scene { display: none; animation: enter .45s ease both; }
+    .scene.active { display: block; }
+    @keyframes enter { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    .eyebrow { color: var(--blue); font-size: 13px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
+    h1 { max-width: 850px; margin: 12px 0 18px; font-size: clamp(42px, 6vw, 76px); line-height: .98; letter-spacing: -.055em; color: var(--navy); }
+    h2 { margin: 10px 0 18px; font-size: clamp(31px, 4.5vw, 54px); line-height: 1.03; letter-spacing: -.04em; color: var(--navy); }
+    p { max-width: 820px; margin: 0; font-size: 21px; line-height: 1.55; color: var(--muted); }
+    .query {
+      margin: 28px 0;
+      padding: 24px 28px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: #f8fafc;
+      font-size: clamp(22px, 3vw, 34px);
+      font-weight: 700;
+      color: var(--navy);
+    }
+    .search-replay { margin-top: 24px; overflow: hidden; border: 1px solid var(--line); border-radius: 18px; background: #fff; box-shadow: 0 18px 45px rgba(16, 29, 53, .10); }
+    .search-top { display: flex; align-items: center; gap: 8px; padding: 12px 16px; border-bottom: 1px solid var(--line); background: #f5f7fb; }
+    .search-dot { width: 10px; height: 10px; border-radius: 50%; background: #c8cfdb; }
+    .search-platform { margin-left: 8px; color: var(--muted); font-size: 12px; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; }
+    .search-body { padding: 22px; }
+    .search-box { min-height: 56px; padding: 15px 18px; border: 2px solid #9db8ec; border-radius: 14px; color: var(--navy); font-size: 20px; font-weight: 720; }
+    .search-box::after { content: ''; display: inline-block; width: 2px; height: 22px; margin-left: 3px; vertical-align: -3px; background: var(--blue); animation: blink .8s steps(1) infinite; }
+    .search-status { min-height: 20px; margin: 12px 2px 0; color: var(--muted); font-size: 13px; font-weight: 700; }
+    .replay-results { display: none; margin-top: 16px; padding: 14px 16px; border: 2px solid #6cc5a5; border-radius: 14px; background: #f8fffc; }
+    .replay-results.visible { display: block; animation: reveal .45s ease both; }
+    .replay-results strong { display: block; color: var(--green); font-size: 20px; }
+    .replay-results small { display: block; margin-top: 6px; color: var(--muted); line-height: 1.45; }
+    .result-row { display: flex; justify-content: space-between; gap: 16px; padding: 8px 0; border-bottom: 1px solid #dce9e3; color: var(--navy); font-size: 14px; }
+    .result-row:last-of-type { border-bottom: 0; }
+    .result-row span { color: var(--muted); }
+    .gap-note { margin-top: 12px; padding: 10px 12px; border-radius: 10px; background: #fff3e8; color: #9a4e12; font-size: 14px; font-weight: 800; }
+    .snapshot-title { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; margin-bottom: 8px; color: var(--navy); font-size: 14px; font-weight: 850; }
+    .snapshot-title span { color: var(--muted); font-size: 11px; font-weight: 700; }
+    .snapshot-wrap { overflow-x: auto; }
+    .snapshot { width: 100%; border-collapse: collapse; color: var(--navy); font-size: 12px; }
+    .snapshot th { padding: 6px 7px; border-bottom: 1px solid var(--line); color: var(--muted); font-size: 10px; letter-spacing: .04em; text-align: center; text-transform: uppercase; }
+    .snapshot th:first-child, .snapshot td:first-child { text-align: left; }
+    .snapshot td { padding: 5px 7px; border-bottom: 1px solid #e6ece9; text-align: center; }
+    .snapshot tbody tr:last-child td { border-bottom: 0; }
+    .snapshot tbody tr.target-row { background: #fff0e2; font-weight: 850; }
+    .signal { display: inline-flex; align-items: center; justify-content: center; gap: 4px; }
+    .signal::before { content: ''; width: 9px; height: 9px; border-radius: 50%; background: #f1be3f; box-shadow: inset 0 -1px 2px rgba(0,0,0,.15); }
+    .signal.good::before { background: #45cf8a; }
+    .signal.low::before { background: #ee8d57; }
+    .overall { font-weight: 850; }
+    .score-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 22px; }
+    .score { padding: 18px 12px; border-radius: 14px; background: #f5f7fb; text-align: center; color: var(--navy); }
+    .score strong { display: block; font-size: 30px; }
+    .score.target { border: 2px solid #ef9a53; background: #fff6ed; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes reveal { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    .result {
+      margin-top: 25px;
+      padding: 26px;
+      border: 2px solid #6cc5a5;
+      border-radius: 20px;
+      background: #f2fff9;
+    }
+    .result strong { display: block; margin-bottom: 8px; font-size: 25px; color: var(--green); }
+    .chips { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 25px; }
+    .chip { padding: 9px 13px; border: 1px solid var(--line); border-radius: 999px; background: #fff; color: #3e4a61; font-weight: 650; }
+    .checklist { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; margin-top: 26px; }
+    .check { padding: 17px 18px; border-radius: 15px; background: var(--sky); font-weight: 720; color: var(--navy); }
+    .features-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin-top: 24px; }
+    .feature-card { min-height: 82px; padding: 15px 17px; border: 1px solid var(--line); border-radius: 15px; background: #f8fbff; }
+    .feature-card strong { display: block; margin-bottom: 5px; color: var(--navy); font-size: 16px; }
+    .feature-card span { color: var(--muted); font-size: 13px; line-height: 1.35; }
+    .booking-note { margin-top: 24px; padding: 14px 18px; border-radius: 12px; background: var(--sky); color: var(--navy); font-size: 17px; font-weight: 800; }
+    .offer { margin-top: 26px; font-size: 28px; font-weight: 850; color: var(--navy); }
+    .cta {
+      display: inline-flex;
+      margin-top: 28px;
+      padding: 15px 22px;
+      border-radius: 12px;
+      background: var(--blue);
+      color: #fff;
+      text-decoration: none;
+      font-size: 17px;
+      font-weight: 800;
+    }
+    .controls { padding: 18px 24px 22px; border-top: 1px solid var(--line); background: #fbfcff; }
+    .progress { height: 6px; overflow: hidden; border-radius: 99px; background: #e4eaf3; }
+    .progress div { width: 0; height: 100%; border-radius: inherit; background: var(--blue); transition: width .2s linear; }
+    .bar { display: flex; align-items: center; gap: 14px; margin-top: 15px; }
+    button { border: 0; border-radius: 11px; padding: 11px 17px; background: var(--navy); color: white; font-weight: 800; cursor: pointer; }
+    button.secondary { background: #e8edf5; color: var(--navy); }
+    .time { margin-left: auto; font-size: 13px; color: var(--muted); }
+    footer { max-width: 870px; margin: 18px auto 0; text-align: center; color: var(--muted); font-size: 12px; line-height: 1.5; }
+    @media (max-width: 720px) {
+      .stage { min-height: 690px; padding: 34px 24px; }
+      .checklist { grid-template-columns: 1fr; }
+      header { align-items: flex-start; }
+      .bar { flex-wrap: wrap; }
+      .time { margin-left: 0; }
+      .score-grid { grid-template-columns: 1fr; }
+      .features-grid { grid-template-columns: 1fr; }
+      .snapshot { min-width: 650px; }
+      p { font-size: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header>
+      <div class="brand">Avenity Business Solutions <span>× Get More Customers™</span></div>
+      <div class="stamp">Personalized for Cool Care Heating and Air Conditioning<br>Houston snapshot · July 17, 2026</div>
+    </header>
+
+    <main class="player">
+      <div class="stage" aria-live="polite">
+        <section class="scene active scene-report" data-seconds="14.10" data-narration="Hi Chris. I ran Cool Care Heating and Air Conditioning through a Houston competitor comparison using the business, website, primary service, and city as the search criteria. Here's the competitive snapshot it returned.">
+          <div class="eyebrow">Recorded competitor search · July 17, 2026</div>
+          <h2>Here is Cool Care beside the Houston HVAC market</h2>
+          <div class="search-replay" aria-label="Recorded search replay">
+            <div class="search-top"><span class="search-dot"></span><span class="search-dot"></span><span class="search-dot"></span><span class="search-platform">AI Authority Competitor Comparison · Houston</span></div>
+            <div class="search-body">
+              <div class="search-box" id="typedQuery" aria-live="polite"></div>
+              <div class="search-status" id="searchStatus">Press play to run the recorded search.</div>
+              <div class="replay-results" id="searchReplayResults">
+                <div class="snapshot-title">Houston HVAC Competitive Snapshot <span>Published report · June 2026</span></div>
+                <div class="snapshot-wrap">
+                  <table class="snapshot" aria-label="Houston HVAC competitive snapshot">
+                    <thead><tr><th>Business</th><th>Entity</th><th>Schema</th><th>Authority</th><th>Content</th><th>Overall</th></tr></thead>
+                    <tbody>
+                      <tr><td>The Lee Thompson Co.</td><td><span class="signal good">22</span></td><td><span class="signal good">22</span></td><td><span class="signal good">21</span></td><td><span class="signal good">20</span></td><td class="overall"><span class="signal good">85</span></td></tr>
+                      <tr><td>Richmond's Air</td><td><span class="signal good">21</span></td><td><span class="signal">17</span></td><td><span class="signal good">22</span></td><td><span class="signal good">19</span></td><td class="overall"><span class="signal good">79</span></td></tr>
+                      <tr><td>75 Degree AC</td><td><span class="signal good">21</span></td><td><span class="signal good">21</span></td><td><span class="signal">17</span></td><td><span class="signal good">20</span></td><td class="overall"><span class="signal good">79</span></td></tr>
+                      <tr><td>Houston Smart Air</td><td><span class="signal good">20</span></td><td><span class="signal good">20</span></td><td><span class="signal">18</span></td><td><span class="signal good">19</span></td><td class="overall"><span class="signal good">77</span></td></tr>
+                      <tr><td>Total HVAC Houston</td><td><span class="signal good">19</span></td><td><span class="signal good">19</span></td><td><span class="signal">18</span></td><td><span class="signal">18</span></td><td class="overall"><span class="signal good">74</span></td></tr>
+                      <tr><td>Air Tech of Houston</td><td><span class="signal good">20</span></td><td><span class="signal good">20</span></td><td><span class="signal good">20</span></td><td><span class="signal low">13</span></td><td class="overall"><span class="signal good">73</span></td></tr>
+                      <tr><td>Champion &amp; Nash</td><td><span class="signal">16</span></td><td><span class="signal good">19</span></td><td><span class="signal good">19</span></td><td><span class="signal">17</span></td><td class="overall"><span class="signal good">71</span></td></tr>
+                      <tr><td>Alief Ultra Mechanical</td><td><span class="signal">15</span></td><td><span class="signal">18</span></td><td><span class="signal">17</span></td><td><span class="signal">17</span></td><td class="overall"><span class="signal">67</span></td></tr>
+                      <tr><td>Air Innovations LLC</td><td><span class="signal">18</span></td><td><span class="signal low">10</span></td><td><span class="signal">17</span></td><td><span class="signal">17</span></td><td class="overall"><span class="signal">62</span></td></tr>
+                      <tr class="target-row"><td>Cool Care Heating &amp; Air</td><td><span class="signal">15</span></td><td><span class="signal low">10</span></td><td><span class="signal">16</span></td><td><span class="signal">15</span></td><td class="overall"><span class="signal">56</span></td></tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="scene" data-seconds="18.35" data-narration="Cool Care has served West Houston since 2012 and earns strong customer reviews, but its A I visibility score is 56. The market average is 72, and the top score is 85. The biggest gap is structured data, which scored only 10 out of 25.">
+          <div class="eyebrow">Where Cool Care appears in the market</div>
+          <h2>The reputation is strong. The AI visibility has room to grow.</h2>
+          <div class="score-grid">
+            <div class="score"><strong>85</strong>Top score</div>
+            <div class="score"><strong>72</strong>Market average</div>
+            <div class="score target"><strong>56</strong>Cool Care</div>
+          </div>
+        </section>
+
+        <section class="scene" data-seconds="20.03" data-narration="G M B Optimizer keeps your Google Business Profile active without adding work to your day. It helps optimize the profile, handle review requests and replies, publish Google posts, manage questions and answers, optimize images, and distribute content across Google, Facebook, Instagram, and YouTube.">
+          <div class="eyebrow">GMB Optimizer · automated local visibility</div>
+          <h2>What GMB Optimizer handles for you</h2>
+          <div class="features-grid">
+            <div class="feature-card"><strong>Profile optimization</strong><span>Services, descriptions, attributes and business details.</span></div>
+            <div class="feature-card"><strong>Review management</strong><span>Review requests, follow-ups and AI-assisted replies.</span></div>
+            <div class="feature-card"><strong>Automatic posts</strong><span>Creates, schedules and publishes optimized Google posts.</span></div>
+            <div class="feature-card"><strong>Photos and Q&amp;A</strong><span>Optimizes images and keeps common questions answered.</span></div>
+            <div class="feature-card"><strong>Multi-channel content</strong><span>Google, Facebook, Instagram and YouTube.</span></div>
+            <div class="feature-card"><strong>Progress reporting</strong><span>Heatmaps, completed actions and ranking visibility.</span></div>
+          </div>
+        </section>
+
+        <section class="scene" data-seconds="12.91" data-narration="G M B Optimizer is 350 dollars per month, with no setup fee and no long-term contract. To talk with Avenity, click the booking link in the email and choose a time that works for you.">
+          <div class="eyebrow">Simple next step</div>
+          <h2>Put GMB Optimizer to work for Cool Care.</h2>
+          <div class="offer">GMB Optimizer · $350/month · No setup fee · Cancel anytime</div>
+          <div class="booking-note">Click the booking link in the email to schedule a call with Avenity.</div>
+        </section>
+      </div>
+
+      <div class="controls">
+        <div class="progress"><div id="progressFill"></div></div>
+        <div class="bar">
+          <button id="playButton" type="button">▶ Play walkthrough</button>
+          <button id="restartButton" class="secondary" type="button">↻ Restart</button>
+          <span class="time" id="timeLabel">0:00 / 1:06</span>
+        </div>
+      </div>
+    </main>
+    <footer>
+      Dated search snapshot—not a permanent ranking or a Google AI Overview. Results can vary by platform, location, timing, and personalization. Prepared by the ABS Visibility Team, a digital sales assistant for Avenity Business Solutions.
+    </footer>
+  </div>
+
+  <script>
+    const scenes = [...document.querySelectorAll('.scene')];
+    const totalSeconds = scenes.reduce((sum, scene) => sum + Number(scene.dataset.seconds), 0);
+    const playButton = document.getElementById('playButton');
+    const restartButton = document.getElementById('restartButton');
+    const progressFill = document.getElementById('progressFill');
+    const timeLabel = document.getElementById('timeLabel');
+    const typedQuery = document.getElementById('typedQuery');
+    const searchStatus = document.getElementById('searchStatus');
+    const searchReplayResults = document.getElementById('searchReplayResults');
+    const searchText = 'Cool Care Heating and Air Conditioning · coolcareac.com · HVAC services · Houston, Texas';
+    const narration = new Audio('narration.wav');
+    narration.preload = 'auto';
+    let searchTimers = [];
+    let sceneIndex = 0;
+    let elapsed = 0;
+    let sceneElapsed = 0;
+    let timer = null;
+    let playing = false;
+    let fallbackMode = false;
+
+    function formatTime(value) {
+      const minutes = Math.floor(value / 60);
+      const seconds = String(Math.floor(value % 60)).padStart(2, '0');
+      return `${minutes}:${seconds}`;
+    }
+
+    function render() {
+      scenes.forEach((scene, index) => scene.classList.toggle('active', index === sceneIndex));
+      progressFill.style.width = `${Math.min(100, elapsed / totalSeconds * 100)}%`;
+      timeLabel.textContent = `${formatTime(elapsed)} / ${formatTime(totalSeconds)}`;
+      playButton.textContent = playing ? '❚❚ Pause' : '▶ Play walkthrough';
+    }
+
+    function clearSearchReplay() {
+      searchTimers.forEach(id => clearTimeout(id));
+      searchTimers = [];
+    }
+
+    function resetSearchReplay() {
+      clearSearchReplay();
+      typedQuery.textContent = '';
+      searchStatus.textContent = 'Press play to run the recorded search.';
+      searchReplayResults.classList.remove('visible');
+    }
+
+    function startSearchReplay() {
+      resetSearchReplay();
+      searchStatus.textContent = 'Entering the competitor-report criteria…';
+      [...searchText].forEach((character, index) => {
+        searchTimers.push(setTimeout(() => {
+          typedQuery.textContent += character;
+        }, 42 * index));
+      });
+      const typedAt = 42 * searchText.length;
+      searchTimers.push(setTimeout(() => {
+        searchStatus.textContent = 'Comparing the Houston HVAC report…';
+      }, typedAt + 250));
+      searchTimers.push(setTimeout(() => {
+        searchStatus.textContent = 'Competitive snapshot returned · July 17, 2026';
+        searchReplayResults.classList.add('visible');
+      }, typedAt + 1800));
+    }
+
+    function narrateFallback() {
+      if (!('speechSynthesis' in window)) return;
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(scenes[sceneIndex].dataset.narration);
+      utterance.rate = 0.94;
+      utterance.pitch = 0.98;
+      utterance.volume = 1;
+      window.speechSynthesis.speak(utterance);
+    }
+
+    function tick() {
+      if (!fallbackMode) {
+        elapsed = Math.min(totalSeconds, narration.currentTime);
+      } else {
+        elapsed = Math.min(totalSeconds, elapsed + 0.1);
+      }
+
+      let remaining = elapsed;
+      let nextScene = 0;
+      while (nextScene < scenes.length - 1 && remaining >= Number(scenes[nextScene].dataset.seconds)) {
+        remaining -= Number(scenes[nextScene].dataset.seconds);
+        nextScene += 1;
+      }
+      const changedScene = nextScene !== sceneIndex;
+      sceneIndex = nextScene;
+      sceneElapsed = remaining;
+
+      if (changedScene && fallbackMode) narrateFallback();
+      if (sceneElapsed >= Number(scenes[sceneIndex].dataset.seconds)) {
+        elapsed = totalSeconds;
+        pause();
+      }
+      render();
+    }
+
+    function play() {
+      if (elapsed >= totalSeconds) restart();
+      playing = true;
+      if (sceneIndex === 0 && elapsed < 0.2) startSearchReplay();
+      if (fallbackMode) {
+        narrateFallback();
+      } else {
+        narration.currentTime = elapsed;
+        narration.play().catch(() => {
+          fallbackMode = true;
+          narrateFallback();
+        });
+      }
+      clearInterval(timer);
+      timer = setInterval(tick, 100);
+      render();
+    }
+
+    function pause() {
+      playing = false;
+      clearInterval(timer);
+      timer = null;
+      clearSearchReplay();
+      narration.pause();
+      if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+      render();
+    }
+
+    function restart() {
+      pause();
+      sceneIndex = 0;
+      elapsed = 0;
+      sceneElapsed = 0;
+      fallbackMode = false;
+      narration.currentTime = 0;
+      resetSearchReplay();
+      render();
+    }
+
+    playButton.addEventListener('click', () => playing ? pause() : play());
+    restartButton.addEventListener('click', restart);
+    narration.addEventListener('ended', () => {
+      elapsed = totalSeconds;
+      sceneIndex = scenes.length - 1;
+      pause();
+    });
+    narration.addEventListener('error', () => { fallbackMode = true; });
+    resetSearchReplay();
+    render();
+  </script>
+</body>
+</html>

@@ -263,3 +263,7 @@ Each report scores businesses on AI search visibility — their ability to appea
 - [AI Visibility Report: Frisco Mortgage Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-mortgage-2026-07/)
 - [AI Visibility Report: Frisco Landscaping Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-landscaping-2026-07/)
 - [AI Visibility Report: Frisco Electrical Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/frisco-electrical-2026-07/)
+
+### Conroe (July 2026)
+
+- [AI Visibility Report: Conroe HVAC Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/conroe-hvac-2026-07/)

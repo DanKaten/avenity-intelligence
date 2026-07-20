@@ -268,3 +268,4 @@ Each report scores businesses on AI search visibility — their ability to appea
 
 - [AI Visibility Report: Conroe HVAC Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/conroe-hvac-2026-07/)
 - [AI Visibility Report: Conroe Janitorial Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/conroe-janitorial-2026-07/)
+- [AI Visibility Report: Conroe Roofing Businesses — July 2026](https://dankaten.github.io/avenity-intelligence/articles/conroe-roofing-2026-07/)

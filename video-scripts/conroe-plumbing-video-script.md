@@ -1,48 +1,48 @@
 # Video Script — AI Visibility Report: Conroe Plumbing (July 2026)
 
 **Target:** Conroe, Texas · Plumbing · July 2026
-**Length:** ~60 seconds
-**Source data:** 10 verified Conroe plumbing businesses · Average score 65/100 · Top: JD Precision Plumbing & Air (86)
+**Runtime:** ~60 seconds
+**Source data:** 10 verified Conroe plumbing businesses · average AI visibility score 62/100 · top performer JD Precision Plumbing & Air (88)
 
 ---
 
 ## HOOK
 *(0–5s)*
 
-"When a pipe bursts in Conroe, more homeowners than ever are asking AI — not Google — who to call. So we checked which local plumbers AI can actually read."
+"We looked at how 10 Conroe plumbers show up when your neighbors ask AI who to call — and the gap between first place and the pack is wider than you'd think."
 
 ---
 
 ## NARRATION
-*(~140 words spoken)*
+*(~145 words spoken)*
 
-We analyzed ten real plumbing companies serving Conroe, Texas, scoring each on how clearly AI search engines like ChatGPT, Perplexity, and Google AI Overviews can find and recommend them. The average score landed at sixty-five out of a hundred — solid, with real room to grow.
+When someone in Conroe types "who's the best plumber near me" into ChatGPT or Google's AI answers, only a few local companies actually get named. So we analyzed ten real Conroe plumbing businesses on the technical signals AI engines read — how clearly each site defines the business, its structured data, its reviews, and its content depth.
 
-The clear front-runner was JD Precision Plumbing & Air, at eighty-six. Its site gives AI a complete picture — business type, services, and ratings all marked up in structured data AI can read directly. Benjamin Franklin Plumbing of Conroe followed close behind with strong FAQ structure.
+The average score came in at sixty-two out of a hundred. JD Precision Plumbing & Air led the group at eighty-eight, with one of the most complete structured-data setups we saw — including review markup AI tools can read directly. Established names like Benjamin Franklin Plumbing and Bradbury Brothers also scored well.
 
-Across the rest of the market, the single most common opportunity was the same: most sites are missing the structured data — the LocalBusiness and rating markup — that lets AI name them with confidence. Companies like REI Plumbing describe themselves clearly to people, but not yet to the machines.
+But the most common opportunity across the whole list was the same: review and rating schema — the code that lets AI actually read a company's reputation. Most had the reviews. Few had them in a form AI can cite.
 
-Want to see where your business stands? Get your free AI Visibility Score in about sixty seconds.
+Want to see where your business stands? Get your free AI Visibility Score, then book a quick call.
 
 ---
 
 ## ON-SCREEN TEXT
 *(caption beats)*
 
-1. "Conroe Plumbers: Can AI Find You?"
-2. "10 local companies analyzed"
-3. "Average AI Visibility Score: 65/100"
-4. "Top score: JD Precision Plumbing & Air — 86"
-5. "Most common gap: missing structured data (schema)"
-6. "AI reads code, not just good service"
-7. "Get your free AI Visibility Score →"
+1. Conroe Plumbers · AI Visibility Report — July 2026
+2. 10 local businesses analyzed
+3. Average score: 62 / 100
+4. Top performer: JD Precision Plumbing & Air — 88
+5. Most common gap: review & rating schema
+6. Your reviews exist — but can AI read them?
+7. Get your free AI Visibility Score →
 
 ---
 
 ## CTA
 *(50–60s)*
 
-"Free score, no email required — then book a free 30-minute call to talk through your results."
+"Get your free AI Visibility Score, then book a free 30-minute call to talk through what it means for your business."
 
 - Free AI Visibility Score: **https://avenitybusinesssolutions.com/authority-engine/**
 - Book a call: **https://calendly.com/avenitymarketing/phoneconsult**

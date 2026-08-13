@@ -277,3 +277,4 @@ Each report scores businesses on AI search visibility — their ability to appea
 ### Gulf Coast Industrial & Manufacturing (August 2026)
 
 - [AI Visibility Report: Beaumont Metal Fabrication & Machine Shop Companies — August 2026](https://dankaten.github.io/avenity-intelligence/articles/beaumont-metal-fabrication-2026-08/)
+- [AI Visibility Report: Pasadena & Houston Ship Channel Industrial Coatings Companies — August 2026](https://dankaten.github.io/avenity-intelligence/articles/pasadena-industrial-coatings-2026-08/)

@@ -278,3 +278,4 @@ Each report scores businesses on AI search visibility — their ability to appea
 
 - [AI Visibility Report: Beaumont Metal Fabrication & Machine Shop Companies — August 2026](https://dankaten.github.io/avenity-intelligence/articles/beaumont-metal-fabrication-2026-08/)
 - [AI Visibility Report: Pasadena & Houston Ship Channel Industrial Coatings Companies — August 2026](https://dankaten.github.io/avenity-intelligence/articles/pasadena-industrial-coatings-2026-08/)
+- [AI Visibility Report: Deer Park & Houston Ship Channel Industrial Cleaning Companies — August 2026](https://dankaten.github.io/avenity-intelligence/articles/deer-park-industrial-cleaning-2026-08/)

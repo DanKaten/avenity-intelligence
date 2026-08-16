@@ -1,6 +1,6 @@
 # Video Script — AI Visibility Report
 
-**Target:** Deer Park, TX & the Houston Ship Channel Corridor — Industrial Cleaning, Hydroblasting & Vacuum Truck Services — August 2026
+**Target:** Deer Park & the Houston Ship Channel, TX — Industrial Cleaning, Hydroblasting & Vacuum Truck Services — August 2026
 **Article:** https://dankaten.github.io/avenity-intelligence/articles/deer-park-industrial-cleaning-2026-08/
 **Runtime:** 45–75 seconds
 
@@ -8,22 +8,24 @@
 
 ## HOOK
 
-The two Ship Channel cleaning contractors with the most pages on their sites have zero structured data behind a single one of them.
+One contractor on the Ship Channel has roughly forty separate cleaning-method pages. An AI engine can't read a single one of them as a distinct capability.
 
 ---
 
 ## NARRATION
-*(~155 words, conversational, measured pace)*
+*(~150 words, conversational, measured pace)*
 
-We analyzed ten industrial cleaning, hydroblasting, and vacuum truck companies around Deer Park and the Houston Ship Channel — Channelview, Pasadena, Baytown, La Porte, Texas City. The average AI visibility score came in at fifty-eight out of a hundred.
+We analyzed ten industrial cleaning, hydroblasting, and vacuum truck companies across Deer Park and the Houston Ship Channel. Average AI visibility score: fifty-eight out of a hundred.
 
-Hydrokinetics led at eighty-four. Their capability pages carry their own Service and FAQ structured data, so an AI engine can name them for automated tube bundle cleaning specifically, not just for cleaning in general.
+Hydrokinetics led at eighty-four. Excel Industrial Group followed at seventy-nine. Those two are the only companies whose capability pages carry Service-level structured data — and they're the top two scores in the report. That's not a coincidence.
 
-Here's the pattern worth knowing. Structured data was entirely absent on five of the ten sites. Clean-Co Systems has roughly forty separate method pages — hydroblasting, multitube lancing, heat exchanger cleaning — with no markup behind any of them. Vecta Environmental has eleven, beautifully titled, same story.
+Here's what stood out. In this market, the hard half is already done. Clean-Co Systems has about forty separately addressable method pages. Vecta Environmental has eleven, precisely titled. Neither carries any structured data at all. Across the ten sites, markup was entirely absent on five.
 
-Nobody in this corridor is missing the hard half. The pages are written. What's missing is the layer that tells a machine what those pages are.
+So the pages are written. The methods are named. What's missing is the layer that tells a machine what those pages are.
 
-A turnaround planner searches for a method, not a company. Find out where yours stands.
+A turnaround planner searches for a method, not a company. Forty methods is forty chances to be named.
+
+Find out where your company stands.
 
 ---
 
@@ -33,11 +35,10 @@ A turnaround planner searches for a method, not a company. Find out where yours 
 1. 10 industrial cleaning contractors — Deer Park & the Ship Channel
 2. Average AI visibility score: **58/100**
 3. Top performer: **Hydrokinetics — 84**
-4. Structured data absent on **5 of 10**
+4. Structured data entirely absent on **5 of 10**
 5. Review markup detected on **1 of 10**
-6. Clean-Co Systems: **~40 method pages, 0 markup**
+6. Clean-Co Systems: **~40 method pages, no markup**
 7. Buyers search for a **method**, not a company
-8. 40 cleaning methods = 40 chances to be named
 
 ---
 

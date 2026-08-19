@@ -281,3 +281,4 @@ Each report scores businesses on AI search visibility — their ability to appea
 - [AI Visibility Report: Deer Park & Houston Ship Channel Industrial Cleaning Companies — August 2026](https://dankaten.github.io/avenity-intelligence/articles/deer-park-industrial-cleaning-2026-08/)
 - [AI Visibility Report: La Porte & Houston Ship Channel Crane, Rigging & Heavy Haul Companies — August 2026](https://dankaten.github.io/avenity-intelligence/articles/la-porte-crane-rigging-2026-08/)
 - [AI Visibility Report: Baytown & East Harris County Mechanical & Process Piping Contractors — August 2026](https://dankaten.github.io/avenity-intelligence/articles/baytown-process-piping-2026-08/)
+- [AI Visibility Report: Stafford & Greater Houston Valve & Pump Companies — August 2026](https://dankaten.github.io/avenity-intelligence/articles/stafford-valve-pump-2026-08/)
